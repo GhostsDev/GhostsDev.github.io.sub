@@ -5,8 +5,10 @@ title: About
 excerpt: "Who are you"
 navigation: true
 logo: 'assets/images/ghost.png'
+tags: [about]
 class: page-template
-subclass: 'post page'
+subclass: 'post about'
+author: memories109
 ---
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
