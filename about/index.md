@@ -2,16 +2,52 @@
 layout: page
 current: about
 title: About
+excerpt: "Who are you"
 navigation: true
 logo: 'assets/images/ghost.png'
 class: page-template
 subclass: 'post page'
 ---
 
-Ghost is professional publishing platform designed for modern journalism. This is a demo site of a basic Ghost install to give you a general sense of what a new Ghost site looks like when set up for the first time.
+[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
+# 🤔 _Introduction_
+* 안녕하세요 !! 프론트 엔드 개발자 Ghosts 입니다. 
 
-> If you'd like to set up a site like this for yourself, head over to [Ghost.org](https://ghost.org/) and start a free 14 day trial to give Ghost a try!
+# Contact & Channel
+ - Email : memories109@gmail.com
+ - Github : https://github.com/memories109
 
-If you're a developer: Ghost is a completely open source (MIT) Node.js application built on a JSON API with an Ember.js admin client. It works with MySQL and SQLite, and is publicly available [on Github](https://github.com/TryGhost/ghost).
+# _Skill_
+## BackEnd
+ - Java, PHP
+ - Spring Boot, Spring MVC, Spring Batch, Spring Data JPA
+ - Rest API, Hibernate
+ - Eclipse, Visual Studio Code
+## DevOps
+ - MySQL, MariaDB, Oracle, MongoDB
+ - Jenkins, TravisCI
+ - Nginx, Tomcat
+ - Github
+ 
+## FrontEnd
+ - HTML5
+ - CSS3(SCSS)
+ - Jquery
+ - npm
+ - Jekyll, WordPress
+## Collaboration
+ - RedMine & Wiki Confluence
 
-If you need help with using Ghost, you'll find a ton of useful articles on [our knowledgebase](https://help.ghost.org/), as well as extensive [developer documentation](https://docs.ghost.org/).
+
+# 📚 Educations
+## 리눅스 서버 관리 
+ - 임베디드리눅스교육센터
+ - 리눅스 기초에서 부터 서버 설치까지 교육 과정을 수료
+ - 실무에 적용 되는 리눅스 서버에 대해서 중점 교육
+ - [#linuxServer](https://www.inflearn.com/courses/it-programming)
+
+## 이공계 전문 기술 연수사업
+ - Kh 정보교육원
+ - 훈련과정 : Java Hybride Web-App 개발자 양성 과정
+ - 교육내용 : Java, Android, Jquery, Jsp, Spring, XML, HTML
+ - [#keduit](http://www.keduit.com/?gclid=CjwKCAiAv_KMBhAzEiwAs-rX1DSozMyYyeK1drAI8qimlamHdfCTnyFSypg1DIICaXeQN_cv3LHoSxoCLOEQAvD_BwE)
