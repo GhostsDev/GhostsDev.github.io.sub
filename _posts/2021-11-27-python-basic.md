@@ -12,3 +12,10 @@ author: memories109
 ---
 
 {% include python-table-of-contents.html %}
+
+~~~javascript
+function syntaxHighlight(code) {
+   var foo = 'Hello World';
+   var bar = 100;
+}
+~~~
