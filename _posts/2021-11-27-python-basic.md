@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover:  assets/images/python-logo.png
+cover:  assets/built/images/python-logo.png
 navigation: True
 title: Python 강좌(1) - Python 기본 
 date: 2021-11-27 16:40:00
