@@ -34,7 +34,7 @@ paginate: 20
 language: 'en-uk'
 # 언어 설정
 
-url: https://ghostsdev.github.io/about/
+url: https://ghostsdev.github.io/
 # Google Search Console에서 사용하는 sitemap.xml 생성시
 # 이 url key값이 존재하지 않으면 sitemap.xml이
 # 정상적으로 생성되지 않는다.
@@ -42,7 +42,7 @@ url: https://ghostsdev.github.io/about/
 # 자신의 github page url을 입력
 # ( https://your_github_id.github.io 형식 )
 
-baseurl: /
+baseurl: https://ghostsdev.github.io/about/
 
 # Website info
 title: Technical Training
