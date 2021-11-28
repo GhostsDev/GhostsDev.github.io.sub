@@ -1,13 +1,13 @@
 ---
 layout: page
-current: about
+current: page
 title: About
 excerpt: "Who are you"
 navigation: true
 logo: 'assets/images/ghost.png'
 tags: [about]
 class: page-template
-subclass: 'post about'
+subclass: 'page about'
 author: memories109
 ---
 
