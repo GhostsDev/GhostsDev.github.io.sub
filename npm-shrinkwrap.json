@@ -5836,6 +5836,12 @@
                 "node": ">=0.10.0"
             }
         },
+        "node_modules/lodash": {
+            "version": "4.17.21",
+            "resolved": "https://registry.npmjs.org/lodash/-/lodash-4.17.21.tgz",
+            "integrity": "sha512-v2kDEe57lecTulaDIuNTPy3Ry4gLGJ6Z1O3vE1krgXZNrsQ+LFTGHVxVjcXPs17LhbZVGedAJv8XZ1tvj5FvSg==",
+            "dev": true
+        },
         "node_modules/lodash._basecopy": {
             "version": "3.0.1",
             "resolved": "https://registry.npmjs.org/lodash._basecopy/-/lodash._basecopy-3.0.1.tgz",
@@ -7316,9 +7322,9 @@
             }
         },
         "node_modules/postcss": {
-            "version": "8.4.3",
-            "resolved": "https://registry.npmjs.org/postcss/-/postcss-8.4.3.tgz",
-            "integrity": "sha512-d5gVKo8ekrircqHOQNvSQk8dhGOuAfu1iP6dzfAlnAmcu7EBJ9cFuZG8B1KZK362aaEO3L1H+WM3ny9xQ29tFw==",
+            "version": "8.4.4",
+            "resolved": "https://registry.npmjs.org/postcss/-/postcss-8.4.4.tgz",
+            "integrity": "sha512-joU6fBsN6EIer28Lj6GDFoC/5yOZzLCfn0zHAn/MYXI7aPt4m4hK5KC5ovEZXy+lnCjmYIbQWngvju2ddyEr8Q==",
             "dev": true,
             "peer": true,
             "dependencies": {
@@ -7605,12 +7611,6 @@
             "engines": {
                 "node": ">=0.10.0"
             }
-        },
-        "node_modules/postcss-easy-import/node_modules/lodash": {
-            "version": "4.17.21",
-            "resolved": "https://registry.npmjs.org/lodash/-/lodash-4.17.21.tgz",
-            "integrity": "sha512-v2kDEe57lecTulaDIuNTPy3Ry4gLGJ6Z1O3vE1krgXZNrsQ+LFTGHVxVjcXPs17LhbZVGedAJv8XZ1tvj5FvSg==",
-            "dev": true
         },
         "node_modules/postcss-easy-import/node_modules/pify": {
             "version": "3.0.0",
@@ -15173,6 +15173,12 @@
                 "strip-bom": "^2.0.0"
             }
         },
+        "lodash": {
+            "version": "4.17.21",
+            "resolved": "https://registry.npmjs.org/lodash/-/lodash-4.17.21.tgz",
+            "integrity": "sha512-v2kDEe57lecTulaDIuNTPy3Ry4gLGJ6Z1O3vE1krgXZNrsQ+LFTGHVxVjcXPs17LhbZVGedAJv8XZ1tvj5FvSg==",
+            "dev": true
+        },
         "lodash._basecopy": {
             "version": "3.0.1",
             "resolved": "https://registry.npmjs.org/lodash._basecopy/-/lodash._basecopy-3.0.1.tgz",
@@ -16356,9 +16362,9 @@
             "dev": true
         },
         "postcss": {
-            "version": "8.4.3",
-            "resolved": "https://registry.npmjs.org/postcss/-/postcss-8.4.3.tgz",
-            "integrity": "sha512-d5gVKo8ekrircqHOQNvSQk8dhGOuAfu1iP6dzfAlnAmcu7EBJ9cFuZG8B1KZK362aaEO3L1H+WM3ny9xQ29tFw==",
+            "version": "8.4.4",
+            "resolved": "https://registry.npmjs.org/postcss/-/postcss-8.4.4.tgz",
+            "integrity": "sha512-joU6fBsN6EIer28Lj6GDFoC/5yOZzLCfn0zHAn/MYXI7aPt4m4hK5KC5ovEZXy+lnCjmYIbQWngvju2ddyEr8Q==",
             "dev": true,
             "peer": true,
             "requires": {
@@ -16575,12 +16581,6 @@
                     "requires": {
                         "is-extglob": "^2.1.1"
                     }
-                },
-                "lodash": {
-                    "version": "4.17.21",
-                    "resolved": "https://registry.npmjs.org/lodash/-/lodash-4.17.21.tgz",
-                    "integrity": "sha512-v2kDEe57lecTulaDIuNTPy3Ry4gLGJ6Z1O3vE1krgXZNrsQ+LFTGHVxVjcXPs17LhbZVGedAJv8XZ1tvj5FvSg==",
-                    "dev": true
                 },
                 "pify": {
                     "version": "3.0.0",

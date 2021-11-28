@@ -4,25 +4,9 @@
         xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     
     <url>
-        <loc>http://localhost:4000/welcome.html</loc>
+        <loc>http://localhost:4000/socket.html</loc>
         
-        <lastmod>2017-07-27T19:00:00+09:00</lastmod>
-        
-
-        
-        <changefreq>weekly</changefreq>
-        
-
-        
-        <priority>0.5</priority>
-        
-
-    </url>
-    
-    <url>
-        <loc>http://localhost:4000/the-editor.html</loc>
-        
-        <lastmod>2017-07-27T18:00:00+09:00</lastmod>
+        <lastmod>2021-11-28T01:40:00+09:00</lastmod>
         
 
         
@@ -36,25 +20,9 @@
     </url>
     
     <url>
-        <loc>http://localhost:4000/using-tags.html</loc>
+        <loc>http://localhost:4000/rest.html</loc>
         
-        <lastmod>2017-07-27T17:00:00+09:00</lastmod>
-        
-
-        
-        <changefreq>weekly</changefreq>
-        
-
-        
-        <priority>0.5</priority>
-        
-
-    </url>
-    
-    <url>
-        <loc>http://localhost:4000/managing-users.html</loc>
-        
-        <lastmod>2017-07-27T16:00:00+09:00</lastmod>
+        <lastmod>2021-11-28T01:40:00+09:00</lastmod>
         
 
         
@@ -68,25 +36,9 @@
     </url>
     
     <url>
-        <loc>http://localhost:4000/private-sites.html</loc>
+        <loc>http://localhost:4000/github_action-blog.html</loc>
         
-        <lastmod>2017-07-27T15:00:00+09:00</lastmod>
-        
-
-        
-        <changefreq>weekly</changefreq>
-        
-
-        
-        <priority>0.5</priority>
-        
-
-    </url>
-    
-    <url>
-        <loc>http://localhost:4000/advanced-markdown.html</loc>
-        
-        <lastmod>2017-07-27T14:00:00+09:00</lastmod>
+        <lastmod>2021-11-28T01:40:00+09:00</lastmod>
         
 
         
@@ -100,25 +52,9 @@
     </url>
     
     <url>
-        <loc>http://localhost:4000/themes.html</loc>
+        <loc>http://localhost:4000/travisci-blog.html</loc>
         
-        <lastmod>2017-07-27T13:00:00+09:00</lastmod>
-        
-
-        
-        <changefreq>weekly</changefreq>
-        
-
-        
-        <priority>0.5</priority>
-        
-
-    </url>
-    
-    <url>
-        <loc>http://localhost:4000/the-businessman-and-fisherman.html</loc>
-        
-        <lastmod>2014-08-12T19:18:00+09:00</lastmod>
+        <lastmod>2021-11-28T01:40:00+09:00</lastmod>
         
 
         
@@ -132,25 +68,9 @@
     </url>
     
     <url>
-        <loc>http://localhost:4000/a-full-and-comprehensive-style-test.html</loc>
+        <loc>http://localhost:4000/tutorial-blog.html</loc>
         
-        <lastmod>2012-09-01T19:00:00+09:00</lastmod>
-        
-
-        
-        <changefreq>weekly</changefreq>
-        
-
-        
-        <priority>0.5</priority>
-        
-
-    </url>
-    
-    <url>
-        <loc>http://localhost:4000/i-have-a-dream.html</loc>
-        
-        <lastmod>1963-08-28T19:18:00+09:00</lastmod>
+        <lastmod>2021-11-28T01:40:00+09:00</lastmod>
         
 
         
@@ -164,73 +84,9 @@
     </url>
     
     <url>
-        <loc>http://localhost:4000/the-purpose-of-education.html</loc>
+        <loc>http://localhost:4000/about-blog.html</loc>
         
-        <lastmod>1948-12-12T19:18:00+09:00</lastmod>
-        
-
-        
-        <changefreq>weekly</changefreq>
-        
-
-        
-        <priority>0.5</priority>
-        
-
-    </url>
-    
-    <url>
-        <loc>http://localhost:4000/out-to-sea.html</loc>
-        
-        <lastmod>1912-07-24T19:18:00+09:00</lastmod>
-        
-
-        
-        <changefreq>weekly</changefreq>
-        
-
-        
-        <priority>0.5</priority>
-        
-
-    </url>
-    
-    <url>
-        <loc>http://localhost:4000/looking-glass-house.html</loc>
-        
-        <lastmod>1871-03-18T18:47:36+08:27</lastmod>
-        
-
-        
-        <changefreq>weekly</changefreq>
-        
-
-        
-        <priority>0.5</priority>
-        
-
-    </url>
-    
-    <url>
-        <loc>http://localhost:4000/down-the-rabbit-hole.html</loc>
-        
-        <lastmod>1865-11-26T18:47:36+08:27</lastmod>
-        
-
-        
-        <changefreq>weekly</changefreq>
-        
-
-        
-        <priority>0.5</priority>
-        
-
-    </url>
-    
-    <url>
-        <loc>http://localhost:4000/gettysburg-address.html</loc>
-        
-        <lastmod>1863-11-19T18:47:36+08:27</lastmod>
+        <lastmod>2021-11-21T00:00:00+09:00</lastmod>
         
 
         
