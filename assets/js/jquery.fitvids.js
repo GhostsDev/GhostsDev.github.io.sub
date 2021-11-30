@@ -1,37 +1,4 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@memories109 
-davatron5000
-/
-FitVids.js
-Public
-178
-4.8k
-1k
-Code
-Issues
-24
-Pull requests
-13
-Actions
-Projects
-Wiki
-Security
-Insights
-FitVids.js/jquery.fitvids.js /
-@fastlinemedia
-fastlinemedia Fixed duplicate video issue caused by the back button.
-Latest commit f72b623 on 16 Feb 2016
- History
- 15 contributors
-@davatron5000@chriscoyier@arthurvr@kenhowardpdx@elliotttf@sstarr@Krinkle@fastlinemedia@freakdesign@JacobBennett@quayzar@flynfish
-87 lines (74 sloc)  3.27 KB
-   
+
 /*jshint browser:true */
 /*!
 * FitVids 1.1
