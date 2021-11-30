@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-
+    <meta Permissions-Policy: interest-cohort=("https://ghostsdev.github.io/" self) />
     <!-- Document Settings -->
     <meta charset="utf-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
@@ -20,13 +20,7 @@
     <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/11.3.1/styles/default.min.css">
     <link rel="stylesheet" href="https://fonts.googleapis.com/earlyaccess/nanumgothic.css">
     <style>.hljs { background: none; }</style>
-   <script>
-        const cohort = await document.interestCohort();
-        const url = new URL("https://ghostsdev.github.io/");
-        url.searchParams.append("cohort_id", cohort.id);
-        url.searchParams.append("cohort_version", cohort.version);
-        const creative = await fetch(url);
-   </script>
+   
 
     <!--[if IE]>
         <style>
