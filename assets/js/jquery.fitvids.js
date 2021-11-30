@@ -1,12 +1,44 @@
+Skip to content
+Search or jump to…
+Pull requests
+Issues
+Marketplace
+Explore
+ 
+@memories109 
+davatron5000
+/
+FitVids.js
+Public
+178
+4.8k
+1k
+Code
+Issues
+24
+Pull requests
+13
+Actions
+Projects
+Wiki
+Security
+Insights
+FitVids.js/jquery.fitvids.js /
+@fastlinemedia
+fastlinemedia Fixed duplicate video issue caused by the back button.
+Latest commit f72b623 on 16 Feb 2016
+ History
+ 15 contributors
+@davatron5000@chriscoyier@arthurvr@kenhowardpdx@elliotttf@sstarr@Krinkle@fastlinemedia@freakdesign@JacobBennett@quayzar@flynfish
+87 lines (74 sloc)  3.27 KB
+   
 /*jshint browser:true */
 /*!
-* FitVids 1.3
+* FitVids 1.1
 *
-*
-* Copyright 2017, Chris Coyier + Dave Rupert + Ghost Foundation
-* This is an unofficial release, ported by John O'Nolan
+* Copyright 2013, Chris Coyier - http://css-tricks.com + Dave Rupert - http://daverupert.com
 * Credit to Thierry Koblentz - http://www.alistapart.com/articles/creating-intrinsic-ratios-for-video/
-* Released under the MIT license
+* Released under the WTFPL license - http://sam.zoy.org/wtfpl/
 *
 */
 
@@ -23,7 +55,7 @@
     if(!document.getElementById('fit-vids-style')) {
       // appendStyles: https://github.com/toddmotto/fluidvids/blob/master/dist/fluidvids.js
       var head = document.head || document.getElementsByTagName('head')[0];
-      var css = '.fluid-width-video-container{flex-grow: 1;width:100%;}.fluid-width-video-wrapper{width:100%;position:relative;padding:0;}.fluid-width-video-wrapper iframe,.fluid-width-video-wrapper object,.fluid-width-video-wrapper embed {position:absolute;top:0;left:0;width:100%;height:100%;}';
+      var css = '.fluid-width-video-wrapper{width:100%;position:relative;padding:0;}.fluid-width-video-wrapper iframe,.fluid-width-video-wrapper object,.fluid-width-video-wrapper embed {position:absolute;top:0;left:0;width:100%;height:100%;}';
       var div = document.createElement("div");
       div.innerHTML = '<p>x</p><style id="fit-vids-style">' + css + '</style>';
       head.appendChild(div.childNodes[1]);
@@ -76,14 +108,27 @@
           $this.attr('name', videoName);
           $.fn.fitVids._count++;
         }
-        $this.wrap('<div class="fluid-width-video-container"><div class="fluid-width-video-wrapper"></div></div>').parent('.fluid-width-video-wrapper').css('padding-top', (aspectRatio * 100)+'%');
+        $this.wrap('<div class="fluid-width-video-wrapper"></div>').parent('.fluid-width-video-wrapper').css('padding-top', (aspectRatio * 100)+'%');
         $this.removeAttr('height').removeAttr('width');
       });
     });
   };
-
+  
   // Internal counter for unique video names.
   $.fn.fitVids._count = 0;
-
+  
 // Works with either jQuery or Zepto
 })( window.jQuery || window.Zepto );
+© 2021 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Docs
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
+Loading complete
