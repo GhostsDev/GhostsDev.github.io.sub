@@ -119,16 +119,3 @@ Latest commit f72b623 on 16 Feb 2016
   
 // Works with either jQuery or Zepto
 })( window.jQuery || window.Zepto );
-© 2021 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-Loading complete
