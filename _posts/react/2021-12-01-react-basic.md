@@ -1,7 +1,7 @@
 ---
 layout: post
 current: post
-cover:  assets/built/images/react-logo.png
+cover:  assets/built/images/logo-og.png
 navigation: True
 title: React Beginning Chep1
 date: 2021-11-27 16:40:00
