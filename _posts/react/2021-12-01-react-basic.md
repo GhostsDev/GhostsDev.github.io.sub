@@ -27,7 +27,7 @@ node 설치 부터 React의 구조 파악에 중점을 두며
 ~~~
 npm 은 nodejs 패키지 관리툴이다. 
 ~~~
-##  이제 부터 React 프로젝트 생성
+##  React 기본 프로젝트 생성
 ~~~
 npm create-react-app blog 
 ~~~
