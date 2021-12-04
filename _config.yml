@@ -141,13 +141,13 @@ exclude:
   - vendor
   - .travis.yml
   - node_modules
-  - assets/css
-  - assets/images
-  - _posts/angular
+  # - assets/css
+  # - assets/images
+  # - _posts/angular
   - _posts/et-cetera
   # - _posts/python
   # - _posts/typescript
 #  - _posts/jekyll
-  - _posts/iot
-  - _posts/r
-  - _posts/economy
+  # - _posts/iot
+  # - _posts/r
+  # - _posts/economy
