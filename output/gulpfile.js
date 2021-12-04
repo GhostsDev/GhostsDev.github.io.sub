@@ -24,13 +24,13 @@ gulp.task('css', function () {
         easyimport,
         customProperties,
         colorFunction(),
-        autoprefixer({browsers: ['last 2 versions']}),
+        // autoprefixer({browsers: ['last 1 versions']}),
         cssnano()
     ];
 
     return gulp.src('assets/css/*.css')
         .pipe(sourcemaps.init())
-        .pipe(postcss(processors))
+        // .pipe(postcss(processors))
         .pipe(sourcemaps.write('.'))
         .pipe(gulp.dest('assets/built/'))
 });

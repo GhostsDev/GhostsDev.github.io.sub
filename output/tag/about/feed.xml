@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom" >
+  <generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator>
+  <link href="http://localhost:4000/tag/about/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="http://localhost:4000/" rel="alternate" type="text/html" />
+  <updated>2021-12-04T14:49:32+09:00</updated>
+  <id>http://localhost:4000/tag/about/feed.xml</id>
+
+  
+  
+  
+
+  
+    <title type="html">Technical Ghosts | </title>
+  
+
+  
+    <subtitle>creative special person</subtitle>
+  
+
+  
+
+  
+    
+      
+    
+      
+    
+  
+
+  
+  
+
+  
+    <entry>
+      <title type="html">Who are you</title>
+      <link href="http://localhost:4000/about-me" rel="alternate" type="text/html" title="Who are you" />
+      <published>2021-11-28T01:40:00+09:00</published>
+      <updated>2021-11-28T01:40:00+09:00</updated>
+      <id>http://localhost:4000/about-me</id>
+      <content type="html" xml:base="http://localhost:4000/about-me">&lt;p&gt;&lt;a href=&quot;https://travis-ci.org/joemccann/dillinger&quot;&gt;&lt;img src=&quot;https://travis-ci.org/joemccann/dillinger.svg?branch=master&quot; alt=&quot;Build Status&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&quot;-introduction&quot;&gt;🤔 &lt;em&gt;Introduction&lt;/em&gt;&lt;/h1&gt;
+&lt;ul&gt;
+  &lt;li&gt;안녕하세요 !! 프론트 엔드 개발자 Ghosts 입니다.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;contact--channel&quot;&gt;Contact &amp;amp; Channel&lt;/h1&gt;
+&lt;ul&gt;
+  &lt;li&gt;Email : memories109@gmail.com&lt;/li&gt;
+  &lt;li&gt;Github : https://github.com/memories109&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;skill&quot;&gt;&lt;em&gt;Skill&lt;/em&gt;&lt;/h1&gt;
+&lt;p&gt;
+&lt;img src=&quot;https://img.shields.io/badge/HTML5-E34F26?style=flat-square&amp;amp;logo=HTML5&amp;amp;logoColor=white&quot; /&gt;
+&lt;img src=&quot;https://img.shields.io/badge/CSS3-1572B6?style=flat-square&amp;amp;logo=CSS3&amp;amp;logoColor=white&quot; /&gt;
+&lt;img src=&quot;https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&amp;amp;logo=JavaScript&amp;amp;logoColor=white&quot; /&gt;
+&lt;img src=&quot;https://img.shields.io/badge/Java-F7DF1E?style=flat-square&amp;amp;logo=Java&amp;amp;logoColor=red&quot; /&gt;
+&lt;img src=&quot;https://img.shields.io/badge/Node.js-339933?style=flat-square&amp;amp;logo=Node.js&amp;amp;logoColor=white&quot; /&gt;
+&lt;img src=&quot;https://img.shields.io/badge/MongoDB-47A248?style=flat-square&amp;amp;logo=MongoDB&amp;amp;logoColor=white&quot; /&gt;
+&lt;img src=&quot;https://img.shields.io/badge/MySQL-4479A1?style=flat-square&amp;amp;logo=MySQL&amp;amp;logoColor=white&quot; /&gt; 
+&lt;img src=&quot;https://img.shields.io/badge/Oracle-4479A1?style=flat-square&amp;amp;logo=Oracle&amp;amp;logoColor=white&quot; /&gt;
+&lt;img src=&quot;https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&amp;amp;logo=Amazon%20AWS&amp;amp;logoColor=white&quot; /&gt;
+&lt;/p&gt;
+
+&lt;h2 id=&quot;backend&quot;&gt;BackEnd&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Java, PHP&lt;/li&gt;
+  &lt;li&gt;Spring Boot, Spring MVC, Spring Batch, Spring Data JPA&lt;/li&gt;
+  &lt;li&gt;Rest API, Hibernate&lt;/li&gt;
+  &lt;li&gt;Eclipse, Visual Studio Code&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;devops&quot;&gt;DevOps&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;MySQL, MariaDB, Oracle, MongoDB&lt;/li&gt;
+  &lt;li&gt;Jenkins, TravisCI&lt;/li&gt;
+  &lt;li&gt;Nginx, Tomcat&lt;/li&gt;
+  &lt;li&gt;Github&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;frontend&quot;&gt;FrontEnd&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;HTML5&lt;/li&gt;
+  &lt;li&gt;CSS3(SCSS)&lt;/li&gt;
+  &lt;li&gt;Jquery&lt;/li&gt;
+  &lt;li&gt;npm&lt;/li&gt;
+  &lt;li&gt;Jekyll, WordPress&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;collaboration&quot;&gt;Collaboration&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;RedMine &amp;amp; Wiki Confluence&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;-experiences&quot;&gt;🌎 Experiences&lt;/h1&gt;
+&lt;h2 id=&quot;메일-통합관리-시스템&quot;&gt;메일 통합관리 시스템&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;php 프레임워크 , java 전환&lt;/li&gt;
+  &lt;li&gt;Naver 초청강사  Spring Data JPA 자바 관계형 데이터 정의 개념&lt;/li&gt;
+  &lt;li&gt;Hibernate 기술명세 구조 파악 습득&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.mailnara.co.kr/&quot;&gt;mailnara&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;lg-smart-w2-앱-개발&quot;&gt;LG Smart W2 앱 개발&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;EnyoJs 사용&lt;/li&gt;
+  &lt;li&gt;객체 지향 캡슐화 및 모듈성을 강조하는 크로스 플랫폼 모바일&lt;/li&gt;
+  &lt;li&gt;스마트 워치 프론트엔드 개발 , 기획 및 프로젝트 총괄,초기 디자인패턴 및 유지보수&lt;/li&gt;
+  &lt;li&gt;개발환경 : linux, androidWear, EnyoJS, Json, jQuery, RESTful API&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://webostv.developer.lge.com/develop/enyo-enact-developer-guide/&quot;&gt;enyojs&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;kshop-쇼핑몰&quot;&gt;KShop 쇼핑몰&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;포털 메인 , 서비스 메인 개발자로 개발/운영&lt;/li&gt;
+  &lt;li&gt;전자정부 프레임워크, MyBatis, AngluerJs 오픈소스 프레임워크&lt;/li&gt;
+  &lt;li&gt;SpringBoot , MyBatis, Ehcache를 사용한 서비스 성능 개선&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.kshop.co.kr/#2&quot;&gt;kshopping&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;금융보안교육센터-이러닝-솔루션-유지보수&quot;&gt;금융보안교육센터 이러닝 솔루션 유지보수&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;포털 메인 , 서비스 메인 개발자로 개발/운영&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;-educations&quot;&gt;📚 Educations&lt;/h1&gt;
+&lt;h2 id=&quot;리눅스-서버-관리&quot;&gt;리눅스 서버 관리&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;임베디드리눅스교육센터&lt;/li&gt;
+  &lt;li&gt;리눅스 기초에서 부터 서버 설치까지 교육 과정을 수료&lt;/li&gt;
+  &lt;li&gt;실무에 적용 되는 리눅스 서버에 대해서 중점 교육&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.inflearn.com/courses/it-programming&quot;&gt;#linuxServer&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;이공계-전문-기술-연수사업&quot;&gt;이공계 전문 기술 연수사업&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Kh 정보교육원&lt;/li&gt;
+  &lt;li&gt;훈련과정 : Java Hybride Web-App 개발자 양성 과정&lt;/li&gt;
+  &lt;li&gt;교육내용 : Java, Android, Jquery, Jsp, Spring, XML, HTML&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.keduit.com/?gclid=CjwKCAiAv_KMBhAzEiwAs-rX1DSozMyYyeK1drAI8qimlamHdfCTnyFSypg1DIICaXeQN_cv3LHoSxoCLOEQAvD_BwE&quot;&gt;#keduit&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>memories109</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="about" />
+      
+
+      
+        <summary type="html">🤔 Introduction 안녕하세요 !! 프론트 엔드 개발자 Ghosts 입니다.</summary>
+      
+
+      
+      
+    </entry>
+  
+</feed>

@@ -11,7 +11,6 @@ subclass: 'post tag-react'
 author: memories109
 ---
 
-
 # nodejs 검색후 최신버젼 설치
 ~~~
 공부하는 과정에서 정리하는 관점에서 작성합니다. 
@@ -28,10 +27,11 @@ node 설치 부터 React의 구조 파악에 중점을 두며
 npm 은 nodejs 패키지 관리툴이다. 
 ~~~
 ##  React 기본 프로젝트 생성
+- nodejs 를 설치 해야지 create-react-app 사용이 가능
 ~~~
-npm create-react-app blog 
+npx create-react-app blog 
 ~~~
-실행할 경우 기본적인 React 프로젝트를 생성 할 수 있다. 
+
 - vscode 에서 React 설치
   ![react](/assets/images/react/create-react-app.png)
   ![react](/assets/images/react/setup.png)

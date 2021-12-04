@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator>
   <link href="http://localhost:4000/tag/blog/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://localhost:4000/" rel="alternate" type="text/html" />
-  <updated>2021-11-28T17:46:51+09:00</updated>
+  <updated>2021-12-04T14:49:32+09:00</updated>
   <id>http://localhost:4000/tag/blog/feed.xml</id>
 
   
@@ -12,28 +12,16 @@
   
 
   
-    <title type="html">Technical Training | </title>
+    <title type="html">Technical Ghosts | </title>
   
 
   
-    <subtitle>IT기반기술 블로그</subtitle>
+    <subtitle>creative special person</subtitle>
   
 
   
 
   
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
-    
-      
     
       
     
@@ -47,11 +35,11 @@
   
     <entry>
       <title type="html">Socket 통신 개념잡기</title>
-      <link href="http://localhost:4000/socket" rel="alternate" type="text/html" title="Socket 통신 개념잡기" />
+      <link href="http://localhost:4000/socket-in" rel="alternate" type="text/html" title="Socket 통신 개념잡기" />
       <published>2021-11-28T01:40:00+09:00</published>
       <updated>2021-11-28T01:40:00+09:00</updated>
-      <id>http://localhost:4000/socket</id>
-      <content type="html" xml:base="http://localhost:4000/socket"></content>
+      <id>http://localhost:4000/socket-in</id>
+      <content type="html" xml:base="http://localhost:4000/socket-in"></content>
 
       
       
@@ -81,11 +69,11 @@
   
     <entry>
       <title type="html">REST(REpresentational State Transfer) 정의</title>
-      <link href="http://localhost:4000/rest" rel="alternate" type="text/html" title="REST(REpresentational State Transfer) 정의" />
+      <link href="http://localhost:4000/rest-in" rel="alternate" type="text/html" title="REST(REpresentational State Transfer) 정의" />
       <published>2021-11-28T01:40:00+09:00</published>
       <updated>2021-11-28T01:40:00+09:00</updated>
-      <id>http://localhost:4000/rest</id>
-      <content type="html" xml:base="http://localhost:4000/rest">&lt;h1 id=&quot;rest의-정의&quot;&gt;REST의 정의&lt;/h1&gt;
+      <id>http://localhost:4000/rest-in</id>
+      <content type="html" xml:base="http://localhost:4000/rest-in">&lt;h1 id=&quot;rest의-정의&quot;&gt;REST의 정의&lt;/h1&gt;
 &lt;ul&gt;
   &lt;li&gt;REpresentational State Transfer의 약자로, 
 자원의 이름으로 구분하여 정보를 주고 받을수 있는 모든것을 의미 한다.&lt;/li&gt;
@@ -185,11 +173,11 @@ JSON, XML를 통해 데이터를 주고 받는것이 일반적&lt;/p&gt;
   
     <entry>
       <title type="html">GitHub Action 자동화 배포</title>
-      <link href="http://localhost:4000/github_action-blog" rel="alternate" type="text/html" title="GitHub Action 자동화 배포" />
+      <link href="http://localhost:4000/github-actionblog" rel="alternate" type="text/html" title="GitHub Action 자동화 배포" />
       <published>2021-11-28T01:40:00+09:00</published>
       <updated>2021-11-28T01:40:00+09:00</updated>
-      <id>http://localhost:4000/github_action-blog</id>
-      <content type="html" xml:base="http://localhost:4000/github_action-blog">&lt;h1 id=&quot;github-action-자동화-배포&quot;&gt;GitHub Action 자동화 배포&lt;/h1&gt;
+      <id>http://localhost:4000/github-actionblog</id>
+      <content type="html" xml:base="http://localhost:4000/github-actionblog">&lt;h1 id=&quot;github-action-자동화-배포&quot;&gt;GitHub Action 자동화 배포&lt;/h1&gt;
 &lt;p&gt;이전 문서화 작업중에서 TravisCi에 대해서 언급한적이 있다
 개발도중 만나게된 응답 오류, 빌드 시간, 커스텀 어려움 복잡도 기타등등 …..
 그런 문제로 찾아본 결과 GitHub Action을 검토 하였으며 
@@ -242,11 +230,11 @@ JSON, XML를 통해 데이터를 주고 받는것이 일반적&lt;/p&gt;
   
     <entry>
       <title type="html">jekyll Travis CI 배포 자동화</title>
-      <link href="http://localhost:4000/travisci-blog" rel="alternate" type="text/html" title="jekyll Travis CI 배포 자동화" />
+      <link href="http://localhost:4000/travisci-ci" rel="alternate" type="text/html" title="jekyll Travis CI 배포 자동화" />
       <published>2021-11-28T01:40:00+09:00</published>
       <updated>2021-11-28T01:40:00+09:00</updated>
-      <id>http://localhost:4000/travisci-blog</id>
-      <content type="html" xml:base="http://localhost:4000/travisci-blog">&lt;h1 id=&quot;travis-ci&quot;&gt;Travis CI&lt;/h1&gt;
+      <id>http://localhost:4000/travisci-ci</id>
+      <content type="html" xml:base="http://localhost:4000/travisci-ci">&lt;h1 id=&quot;travis-ci&quot;&gt;Travis CI&lt;/h1&gt;
 &lt;p&gt;Travis CI는 배포 자동화 툴입니다. 유명한 Jenkis와 비교하시면 됩니다. 
 &lt;a href=&quot;https://travis-ci.org/&quot;&gt;#travis-ci&lt;/a&gt;&lt;/p&gt;</content>
 
