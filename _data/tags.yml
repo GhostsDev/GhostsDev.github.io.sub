@@ -2,6 +2,10 @@ getting-started:
   name: getting-started
   description: False
   cover: False
+about :
+  name: about
+  description: False
+  cover: assets/built/images/speeches.jpg
 blog :
   name: blog
   description: False
@@ -21,11 +25,11 @@ project :
 react :
   name: react
   description: False
-  cover: assets/built/images/speeches.jpg
+  cover: assets/built/images/logo-og.png
 coding :
   name: coding
   description: False
-  cover: assets/built/images/speeches.jpg
+  cover: assets/built/images/coding.jpg
 typescirpt :
   name: typescirpt
   description: False
