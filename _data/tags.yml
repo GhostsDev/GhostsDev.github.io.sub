@@ -2,6 +2,10 @@ getting-started:
   name: getting-started
   description: False
   cover: False
+blog :
+  name: blog
+  description: False
+  cover: assets/built/images/speeches.jpg
 jekyll :
   name: jekyll
   description: False
