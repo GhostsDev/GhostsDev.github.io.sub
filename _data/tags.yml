@@ -1,15 +1,3 @@
-speeches:
-  name: speeches
-  description: Some of the greatest words ever spoken.
-  cover: assets/images/speeches.jpg
-fiction:
-  name: fiction
-  description: False
-  cover: False
-fables:
-  name: fables
-  description: A series of short stories that make you think.
-  cover: assets/images/fables.jpg
 getting-started:
   name: getting-started
   description: False
@@ -22,7 +10,19 @@ python :
   name: python
   description: False
   cover: assets/built/images/speeches.jpg
-economy :
-  name: economy
+project :
+  name: project
+  description: False
+  cover: assets/built/images/speeches.jpg
+react :
+  name: react
+  description: False
+  cover: assets/built/images/speeches.jpg
+coding :
+  name: coding
+  description: False
+  cover: assets/built/images/speeches.jpg
+typescirpt :
+  name: typescirpt
   description: False
   cover: assets/built/images/speeches.jpg
