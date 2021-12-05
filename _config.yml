@@ -34,7 +34,7 @@ paginate: 20
 language: 'en-uk'
 # 언어 설정
 
-url: https://ghostsdev.github.io/
+url: https://ghostsdev.github.io
 # Google Search Console에서 사용하는 sitemap.xml 생성시
 # 이 url key값이 존재하지 않으면 sitemap.xml이
 # 정상적으로 생성되지 않는다.
@@ -63,7 +63,7 @@ favicon: assets/built/images/favicon.jpg
 production_url: https://ghostsdev.github.io/
 # 최종적으로 blog가 운영될 url
 
-source_url: https://ghostsdev.github.io/
+source_url: https://github.com/GhostsDev/GhostsDev.github.io
 # blogmaker(jekyll source folder)에 대한 github repository
 
 # Social info
@@ -111,7 +111,7 @@ safe: False
 lsi: False
 
 username: memories109
-repo: Ghosts
+repo: GhostsDev.github.io
 # username : travis-ci와 연동하는 github의 username
 # repo: travis-ci와 연동하는 github의 repository이름
 # https://github.com/<username>/<repository>
