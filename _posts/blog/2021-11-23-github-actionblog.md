@@ -5,7 +5,7 @@ cover:  assets/built/images/gitaction.png
 navigation: True
 title: GitHub Action 자동화 배포
 excerpt: "Github Action"
-date: 2021-11-27 16:40:00
+
 tags: [blog]
 class: post-template
 subclass: 'post tag-blog'

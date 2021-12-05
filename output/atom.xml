@@ -146,6 +146,32 @@ npm start
     
       
       <item>
+        <title>백준 2798</title>
+        
+          <description>Question 2798 </description>
+        
+        <pubDate>Wed, 01 Dec 2021 00:00:00 +0900</pubDate>
+        <link>
+        http://localhost:4000/Question-2798</link>
+        <guid isPermaLink="true">http://localhost:4000/Question-2798</guid>
+      </item>
+      
+    
+      
+      <item>
+        <title>백준 2231</title>
+        
+          <description>Question 2231 </description>
+        
+        <pubDate>Wed, 01 Dec 2021 00:00:00 +0900</pubDate>
+        <link>
+        http://localhost:4000/Question-2231</link>
+        <guid isPermaLink="true">http://localhost:4000/Question-2231</guid>
+      </item>
+      
+    
+      
+      <item>
         <title>Typescript Beginning Chep1</title>
         
           <description>
@@ -311,6 +337,25 @@ style={  {color : 'blue',fontSize: '30ox'}} /* object 타입형식으로 적용 
     
       
       <item>
+        <title>Who are you</title>
+        
+          <description>&lt;p&gt;&lt;a href=&quot;https://travis-ci.org/joemccann/dillinger&quot;&gt;&lt;img src=&quot;https://travis-ci.org/joemccann/dillinger.svg?branch=master&quot; alt=&quot;Build Status&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&quot;-introduction&quot;&gt;🤔 &lt;em&gt;Introduction&lt;/em&gt;&lt;/h1&gt;
+&lt;ul&gt;
+  &lt;li&gt;안녕하세요 !! 프론트 엔드 개발자 Ghosts 입니다.&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        
+        <pubDate>Sun, 28 Nov 2021 01:40:00 +0900</pubDate>
+        <link>
+        http://localhost:4000/about-me</link>
+        <guid isPermaLink="true">http://localhost:4000/about-me</guid>
+      </item>
+      
+    
+      
+      <item>
         <title>Python 강좌(1) - Python 기본</title>
         
           <description>&lt;p&gt;&lt;span class=&quot;table-of-contents-list&quot;&gt;Python 강좌는 여러 절로 구성되어 있습니다. &lt;/span&gt;&lt;/p&gt;
@@ -330,36 +375,10 @@ style={  {color : 'blue',fontSize: '30ox'}} /* object 타입형식으로 적용 
 
 </description>
         
-        <pubDate>Sun, 28 Nov 2021 01:40:00 +0900</pubDate>
+        <pubDate>Sat, 27 Nov 2021 00:00:00 +0900</pubDate>
         <link>
         http://localhost:4000/python-basic</link>
         <guid isPermaLink="true">http://localhost:4000/python-basic</guid>
-      </item>
-      
-    
-      
-      <item>
-        <title>백준 2798</title>
-        
-          <description>Question 2798 </description>
-        
-        <pubDate>Sun, 28 Nov 2021 01:40:00 +0900</pubDate>
-        <link>
-        http://localhost:4000/Question-2798</link>
-        <guid isPermaLink="true">http://localhost:4000/Question-2798</guid>
-      </item>
-      
-    
-      
-      <item>
-        <title>백준 2231</title>
-        
-          <description>Question 2231 </description>
-        
-        <pubDate>Sun, 28 Nov 2021 01:40:00 +0900</pubDate>
-        <link>
-        http://localhost:4000/Question-2231</link>
-        <guid isPermaLink="true">http://localhost:4000/Question-2231</guid>
       </item>
       
     
@@ -369,7 +388,7 @@ style={  {color : 'blue',fontSize: '30ox'}} /* object 타입형식으로 적용 
         
           <description>양반향 통신의 Socket에 대해서 알아보겠다.</description>
         
-        <pubDate>Sun, 28 Nov 2021 01:40:00 +0900</pubDate>
+        <pubDate>Wed, 24 Nov 2021 00:00:00 +0900</pubDate>
         <link>
         http://localhost:4000/socket-in</link>
         <guid isPermaLink="true">http://localhost:4000/socket-in</guid>
@@ -382,7 +401,7 @@ style={  {color : 'blue',fontSize: '30ox'}} /* object 타입형식으로 적용 
         
           <description>Rest 개념 잡기</description>
         
-        <pubDate>Sun, 28 Nov 2021 01:40:00 +0900</pubDate>
+        <pubDate>Wed, 24 Nov 2021 00:00:00 +0900</pubDate>
         <link>
         http://localhost:4000/rest-in</link>
         <guid isPermaLink="true">http://localhost:4000/rest-in</guid>
@@ -395,7 +414,7 @@ style={  {color : 'blue',fontSize: '30ox'}} /* object 타입형식으로 적용 
         
           <description>Github Action</description>
         
-        <pubDate>Sun, 28 Nov 2021 01:40:00 +0900</pubDate>
+        <pubDate>Tue, 23 Nov 2021 00:00:00 +0900</pubDate>
         <link>
         http://localhost:4000/github-actionblog</link>
         <guid isPermaLink="true">http://localhost:4000/github-actionblog</guid>
@@ -408,7 +427,7 @@ style={  {color : 'blue',fontSize: '30ox'}} /* object 타입형식으로 적용 
         
           <description>jekyll Travis CI 배포 자동화(1)</description>
         
-        <pubDate>Sun, 28 Nov 2021 01:40:00 +0900</pubDate>
+        <pubDate>Mon, 22 Nov 2021 00:00:00 +0900</pubDate>
         <link>
         http://localhost:4000/travisci-ci</link>
         <guid isPermaLink="true">http://localhost:4000/travisci-ci</guid>
@@ -421,29 +440,10 @@ style={  {color : 'blue',fontSize: '30ox'}} /* object 타입형식으로 적용 
         
           <description>GitHub Blog 서비스인 github.io 블로그 시작</description>
         
-        <pubDate>Sun, 28 Nov 2021 01:40:00 +0900</pubDate>
+        <pubDate>Sun, 21 Nov 2021 00:00:00 +0900</pubDate>
         <link>
         http://localhost:4000/tutorial-blog</link>
         <guid isPermaLink="true">http://localhost:4000/tutorial-blog</guid>
-      </item>
-      
-    
-      
-      <item>
-        <title>Who are you</title>
-        
-          <description>&lt;p&gt;&lt;a href=&quot;https://travis-ci.org/joemccann/dillinger&quot;&gt;&lt;img src=&quot;https://travis-ci.org/joemccann/dillinger.svg?branch=master&quot; alt=&quot;Build Status&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;h1 id=&quot;-introduction&quot;&gt;🤔 &lt;em&gt;Introduction&lt;/em&gt;&lt;/h1&gt;
-&lt;ul&gt;
-  &lt;li&gt;안녕하세요 !! 프론트 엔드 개발자 Ghosts 입니다.&lt;/li&gt;
-&lt;/ul&gt;
-
-</description>
-        
-        <pubDate>Sun, 28 Nov 2021 01:40:00 +0900</pubDate>
-        <link>
-        http://localhost:4000/about-me</link>
-        <guid isPermaLink="true">http://localhost:4000/about-me</guid>
       </item>
       
     

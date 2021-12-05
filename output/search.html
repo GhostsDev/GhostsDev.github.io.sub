@@ -191,6 +191,24 @@ into the {body} of the default.hbs template -->
     }
     ,
     
+    "question-2798": {
+        "title": "백준 2798",
+            "author": "memories109",
+            "category": "",
+            "content": "package BruteForce;import java.io.BufferedReader;import java.io.InputStreamReader;import java.util.StringTokenizer;/**  * 백준 BruteForce 알고리즘 2798번 문제 * 블랙잭 구하는 공식이다  *  * Test용이 하기 위해 str, str2 직접 입력값 추가 하였다 *  * 문제  * 주어진 n개 값에 대해서 m 가까운 최종합계를 가지는 3개의 값을 구하시오 * ex)  * blackJack 값 21이며  * 5+7 = 12 * 12 + 9 = 21 *  * result 5,7,9  *  더해진 값들중 블랙잭에 제일 가까운 수는 21이다  * d * 모든 경우를 탐색한다.  * 브루트포스  * 시간복잡도 O(N3) */public class Question_2798 {        public static void main(String[] args) throws Exception {        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));                String str = \"5 21\";        String str2 = \"5 6 7 8 9\";        StringTokenizer st = new StringTokenizer(str, \" \");                        int n = Integer.parseInt(st.nextToken());        int blackJack = Integer.parseInt(st.nextToken());                StringTokenizer st2 = new StringTokenizer(str2, \" \");                int[] num = new int[n];                for(int i = 0; i &lt; n ; i++){            num[i] = Integer.parseInt(st2.nextToken());        }                int result = search(num, n, blackJack);        System.out.print(result);            }    public static int search(int[] num, int count, int to) {        int result = 0;        for(int i = 0; i &lt; count-2; i++){            for(int j = 0; j &lt; count-1 ; j++){                for(int k = 0; k &lt; count; k++){                    int temp= num[i] + num[j] + num[k];                    if(temp == to){                        return to;                    }                    if(result &lt; temp &amp;&amp; temp &lt; to){                        result = temp ;                    }                }            }        }        return result;    }}",
+        "url": "/Question-2798"
+    }
+    ,
+    
+    "question-2231": {
+        "title": "백준 2231",
+            "author": "memories109",
+            "category": "",
+            "content": "package BruteForce;import java.io.BufferedReader;import java.io.InputStreamReader;public class Question_2231 {        /**     *      * 백준 Question 2231 분해합 문제      *      * 어떤 자연수 N이 있을 때, 그 자연수 N의 분해합은 N과 N을 이루는 각 자리수의 합을 의미한다.      * 어떤 자연수 M의 분해합이 N인 경우, M을 N의 생성자라 한다.      * 예를 들어, 245의 분해합은 256(=245+2+4+5)이 된다. 따라서 245는 256의 생성자가 된다.      * 물론, 어떤 자연수의 경우에는 생성자가 없을 수도 있다. 반대로, 생성자가 여러 개인 자연수도 있을 수 있다.     *      *      *      */    public static void main(String[] args) throws Exception {        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));                int n = Integer.parseInt(br.readLine());        /**주어진 예제 문          * 216일 경우          *  216 = 216 + 2+4+6          *  2021.11.19 다시 시작         *          *                  */           }}",
+        "url": "/Question-2231"
+    }
+    ,
+    
     "typescript": {
         "title": "Typescript Beginning Chep1",
             "author": "memories109",
@@ -218,30 +236,21 @@ into the {body} of the default.hbs template -->
     }
     ,
     
+    "about-me": {
+        "title": "Who are you",
+            "author": "memories109",
+            "category": "",
+            "content": "🤔 Introduction  안녕하세요 !! 프론트 엔드 개발자 Ghosts 입니다.Contact &amp; Channel  Email : memories109@gmail.com  Github : https://github.com/memories109Skill BackEnd  Java, PHP  Spring Boot, Spring MVC, Spring Batch, Spring Data JPA  Rest API, Hibernate  Eclipse, Visual Studio CodeDevOps  MySQL, MariaDB, Oracle, MongoDB  Jenkins, TravisCI  Nginx, Tomcat  GithubFrontEnd  HTML5  CSS3(SCSS)  Jquery  npm  Jekyll, WordPressCollaboration  RedMine &amp; Wiki Confluence🌎 Experiences메일 통합관리 시스템  php 프레임워크 , java 전환  Naver 초청강사  Spring Data JPA 자바 관계형 데이터 정의 개념  Hibernate 기술명세 구조 파악 습득  mailnaraLG Smart W2 앱 개발  EnyoJs 사용  객체 지향 캡슐화 및 모듈성을 강조하는 크로스 플랫폼 모바일  스마트 워치 프론트엔드 개발 , 기획 및 프로젝트 총괄,초기 디자인패턴 및 유지보수  개발환경 : linux, androidWear, EnyoJS, Json, jQuery, RESTful API  enyojsKShop 쇼핑몰  포털 메인 , 서비스 메인 개발자로 개발/운영  전자정부 프레임워크, MyBatis, AngluerJs 오픈소스 프레임워크  SpringBoot , MyBatis, Ehcache를 사용한 서비스 성능 개선  kshopping금융보안교육센터 이러닝 솔루션 유지보수  포털 메인 , 서비스 메인 개발자로 개발/운영📚 Educations리눅스 서버 관리  임베디드리눅스교육센터  리눅스 기초에서 부터 서버 설치까지 교육 과정을 수료  실무에 적용 되는 리눅스 서버에 대해서 중점 교육  #linuxServer이공계 전문 기술 연수사업  Kh 정보교육원  훈련과정 : Java Hybride Web-App 개발자 양성 과정  교육내용 : Java, Android, Jquery, Jsp, Spring, XML, HTML  #keduit",
+        "url": "/about-me"
+    }
+    ,
+    
     "python-basic": {
         "title": "Python 강좌(1) - Python 기본",
             "author": "memories109",
             "category": "",
             "content": "Python 강좌는 여러 절로 구성되어 있습니다.     Python 강좌(1) - Python 기본    Python 강좌(2) - Python 제어문function syntaxHighlight(code) {   var foo = 'Hello World';   var bar = 100;}404: Not Found",
         "url": "/python-basic"
-    }
-    ,
-    
-    "question-2798": {
-        "title": "백준 2798",
-            "author": "memories109",
-            "category": "",
-            "content": "package BruteForce;import java.io.BufferedReader;import java.io.InputStreamReader;import java.util.StringTokenizer;/**  * 백준 BruteForce 알고리즘 2798번 문제 * 블랙잭 구하는 공식이다  *  * Test용이 하기 위해 str, str2 직접 입력값 추가 하였다 *  * 문제  * 주어진 n개 값에 대해서 m 가까운 최종합계를 가지는 3개의 값을 구하시오 * ex)  * blackJack 값 21이며  * 5+7 = 12 * 12 + 9 = 21 *  * result 5,7,9  *  더해진 값들중 블랙잭에 제일 가까운 수는 21이다  * d * 모든 경우를 탐색한다.  * 브루트포스  * 시간복잡도 O(N3) */public class Question_2798 {        public static void main(String[] args) throws Exception {        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));                String str = \"5 21\";        String str2 = \"5 6 7 8 9\";        StringTokenizer st = new StringTokenizer(str, \" \");                        int n = Integer.parseInt(st.nextToken());        int blackJack = Integer.parseInt(st.nextToken());                StringTokenizer st2 = new StringTokenizer(str2, \" \");                int[] num = new int[n];                for(int i = 0; i &lt; n ; i++){            num[i] = Integer.parseInt(st2.nextToken());        }                int result = search(num, n, blackJack);        System.out.print(result);            }    public static int search(int[] num, int count, int to) {        int result = 0;        for(int i = 0; i &lt; count-2; i++){            for(int j = 0; j &lt; count-1 ; j++){                for(int k = 0; k &lt; count; k++){                    int temp= num[i] + num[j] + num[k];                    if(temp == to){                        return to;                    }                    if(result &lt; temp &amp;&amp; temp &lt; to){                        result = temp ;                    }                }            }        }        return result;    }}",
-        "url": "/Question-2798"
-    }
-    ,
-    
-    "question-2231": {
-        "title": "백준 2231",
-            "author": "memories109",
-            "category": "",
-            "content": "package BruteForce;import java.io.BufferedReader;import java.io.InputStreamReader;public class Question_2231 {        /**     *      * 백준 Question 2231 분해합 문제      *      * 어떤 자연수 N이 있을 때, 그 자연수 N의 분해합은 N과 N을 이루는 각 자리수의 합을 의미한다.      * 어떤 자연수 M의 분해합이 N인 경우, M을 N의 생성자라 한다.      * 예를 들어, 245의 분해합은 256(=245+2+4+5)이 된다. 따라서 245는 256의 생성자가 된다.      * 물론, 어떤 자연수의 경우에는 생성자가 없을 수도 있다. 반대로, 생성자가 여러 개인 자연수도 있을 수 있다.     *      *      *      */    public static void main(String[] args) throws Exception {        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));                int n = Integer.parseInt(br.readLine());        /**주어진 예제 문          * 216일 경우          *  216 = 216 + 2+4+6          *  2021.11.19 다시 시작         *          *                  */           }}",
-        "url": "/Question-2231"
     }
     ,
     
@@ -287,15 +296,6 @@ into the {body} of the default.hbs template -->
             "category": "",
             "content": "포트폴리오는 제작하기에 어떤 방법이 있을지 고민을 많이 하였다.여러 참고 사이트 무료 홈페이지 제작 사이트등 이런저런 꼼수도 여러곳 보았다.개발자라면 그래도 자신이 만든 포트폴리오가 필요해 보였다.그래서 GitHub Page를 이용한 나만의 포트폴리오를 만들려고 한다.",
         "url": "/tutorial-blog"
-    }
-    ,
-    
-    "about-me": {
-        "title": "Who are you",
-            "author": "memories109",
-            "category": "",
-            "content": "🤔 Introduction  안녕하세요 !! 프론트 엔드 개발자 Ghosts 입니다.Contact &amp; Channel  Email : memories109@gmail.com  Github : https://github.com/memories109Skill BackEnd  Java, PHP  Spring Boot, Spring MVC, Spring Batch, Spring Data JPA  Rest API, Hibernate  Eclipse, Visual Studio CodeDevOps  MySQL, MariaDB, Oracle, MongoDB  Jenkins, TravisCI  Nginx, Tomcat  GithubFrontEnd  HTML5  CSS3(SCSS)  Jquery  npm  Jekyll, WordPressCollaboration  RedMine &amp; Wiki Confluence🌎 Experiences메일 통합관리 시스템  php 프레임워크 , java 전환  Naver 초청강사  Spring Data JPA 자바 관계형 데이터 정의 개념  Hibernate 기술명세 구조 파악 습득  mailnaraLG Smart W2 앱 개발  EnyoJs 사용  객체 지향 캡슐화 및 모듈성을 강조하는 크로스 플랫폼 모바일  스마트 워치 프론트엔드 개발 , 기획 및 프로젝트 총괄,초기 디자인패턴 및 유지보수  개발환경 : linux, androidWear, EnyoJS, Json, jQuery, RESTful API  enyojsKShop 쇼핑몰  포털 메인 , 서비스 메인 개발자로 개발/운영  전자정부 프레임워크, MyBatis, AngluerJs 오픈소스 프레임워크  SpringBoot , MyBatis, Ehcache를 사용한 서비스 성능 개선  kshopping금융보안교육센터 이러닝 솔루션 유지보수  포털 메인 , 서비스 메인 개발자로 개발/운영📚 Educations리눅스 서버 관리  임베디드리눅스교육센터  리눅스 기초에서 부터 서버 설치까지 교육 과정을 수료  실무에 적용 되는 리눅스 서버에 대해서 중점 교육  #linuxServer이공계 전문 기술 연수사업  Kh 정보교육원  훈련과정 : Java Hybride Web-App 개발자 양성 과정  교육내용 : Java, Android, Jquery, Jsp, Spring, XML, HTML  #keduit",
-        "url": "/about-me"
     }
     ,
     

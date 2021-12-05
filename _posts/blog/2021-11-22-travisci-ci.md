@@ -5,7 +5,7 @@ cover:  assets/built/images/travis.png
 navigation: True
 title: jekyll Travis CI 배포 자동화
 excerpt: "jekyll Travis CI 배포 자동화(1)"
-date: 2021-11-27 16:40:00
+
 tags: [blog]
 class: post-template
 subclass: 'post tag-blog'

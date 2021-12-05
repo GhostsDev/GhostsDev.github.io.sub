@@ -5,7 +5,7 @@ current: post
 navigation: True
 title: github.io 포트폴리오 제작하기
 excerpt: "GitHub Blog 서비스인 github.io 블로그 시작"
-date: 2021-11-27 16:40:00
+
 tags: [blog]
 class: post-template
 subclass: 'post tag-blog'
