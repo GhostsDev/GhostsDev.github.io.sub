@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator>
   <link href="http://localhost:4000/tag/blog/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://localhost:4000/" rel="alternate" type="text/html" />
-  <updated>2021-12-05T14:27:24+09:00</updated>
+  <updated>2021-12-05T14:49:13+09:00</updated>
   <id>http://localhost:4000/tag/blog/feed.xml</id>
 
   
@@ -184,16 +184,16 @@ JSON, XML를 통해 데이터를 주고 받는것이 일반적&lt;/p&gt;
 &lt;h2 id=&quot;github-action-설정방법&quot;&gt;GitHub Action 설정방법&lt;/h2&gt;
 &lt;ul&gt;
   &lt;li&gt;기본 설정 방법
-&lt;img src=&quot;/assets/img/customer/gitaction.png&quot; alt=&quot;gitAction&quot; /&gt;&lt;/li&gt;
+&lt;img src=&quot;/assets/built/images/customer/gitaction.png&quot; alt=&quot;gitAction&quot; /&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;Github Action의 메뉴 구성들이다. Jekyll Workflow를 사용하기 설치 해준다.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/img/customer/gitaction2.png&quot; alt=&quot;gitAction&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/built/images/customer/gitaction2.png&quot; alt=&quot;gitAction&quot; /&gt;&lt;/p&gt;
 &lt;ul&gt;
   &lt;li&gt;
     &lt;p&gt;코드 
-&lt;img src=&quot;/assets/img/customer/blog4.png&quot; alt=&quot;gitAction&quot; /&gt;&lt;/p&gt;
+&lt;img src=&quot;/assets/built/images/customer/blog4.png&quot; alt=&quot;gitAction&quot; /&gt;&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;빌드 과정&lt;/p&gt;
@@ -322,6 +322,11 @@ Markdown으로 한 줄 작성하면 그 한 줄은 HTML의 &amp;lt;p&amp;gt;&amp
 동시에 포스트 페이지의 글 부분은 Markdown으로 작성하였다. 이것을 Jekyll이 자동으로 HTML 파일로 변환했고, 나는 그저 Markdown 포스트가 HTML로 변환된 이후를 가정하고 항상 페이지의 중앙에 보이게끔 배치하였다 (Layout을 만들었다).&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://jekyllrb.com/docs/&quot;&gt;#jekyllrb&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;jekyll-설치전-ruby-업데이트-방법&quot;&gt;jekyll 설치전 ruby 업데이트 방법&lt;/h3&gt;
+&lt;p&gt;` sudo gem install rubygems-update `
+  ` sudo update_rubygems ` 
+  ` sudo gem update –system `&lt;/p&gt;
 
 &lt;h2 id=&quot;jekyll-hydejack-구조-설명&quot;&gt;jekyll Hydejack 구조 설명&lt;/h2&gt;
 

@@ -4,7 +4,6 @@ current: post
 cover:  assets/built/images/logo-og.png
 navigation: True
 title: React Beginning Chep0
-date: 2021-11-27 16:40:00
 tags: react
 class: post-template
 subclass: 'post tag-react'

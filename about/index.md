@@ -8,10 +8,85 @@ class: page-template
 subclass: 'post page'
 ---
 
-Ghost is professional publishing platform designed for modern journalism. This is a demo site of a basic Ghost install to give you a general sense of what a new Ghost site looks like when set up for the first time.
 
-> If you'd like to set up a site like this for yourself, head over to [Ghost.org](https://ghost.org/) and start a free 14 day trial to give Ghost a try!
+[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
+# 🤔 _Introduction_
+* 안녕하세요 !! 프론트 엔드 개발자 Ghosts 입니다. 
 
-If you're a developer: Ghost is a completely open source (MIT) Node.js application built on a JSON API with an Ember.js admin client. It works with MySQL and SQLite, and is publicly available [on Github](https://github.com/TryGhost/ghost).
+# Contact & Channel
+ - Email : memories109@gmail.com
+ - Github : https://github.com/memories109
 
-If you need help with using Ghost, you'll find a ton of useful articles on [our knowledgebase](https://help.ghost.org/), as well as extensive [developer documentation](https://docs.ghost.org/).
+# _Skill_
+<p>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-F7DF1E?style=flat-square&logo=Java&logoColor=red"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Oracle-4479A1?style=flat-square&logo=Oracle&logoColor=white"/>
+<img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/>
+</p>
+
+## BackEnd
+ - Java, PHP
+ - Spring Boot, Spring MVC, Spring Batch, Spring Data JPA
+ - Rest API, Hibernate
+ - Eclipse, Visual Studio Code
+  
+## DevOps
+ - MySQL, MariaDB, Oracle, MongoDB
+ - Jenkins, TravisCI
+ - Nginx, Tomcat
+ - Github
+ 
+## FrontEnd
+ - HTML5
+ - CSS3(SCSS)
+ - Jquery
+ - npm
+ - Jekyll, WordPress
+  
+## Collaboration
+ - RedMine & Wiki Confluence
+
+
+# 🌎 Experiences
+## 메일 통합관리 시스템 
+ - php 프레임워크 , java 전환 
+ - Naver 초청강사  Spring Data JPA 자바 관계형 데이터 정의 개념 
+ - Hibernate 기술명세 구조 파악 습득
+ - [mailnara](https://www.mailnara.co.kr/)
+
+
+## LG Smart W2 앱 개발
+ - EnyoJs 사용
+ - 객체 지향 캡슐화 및 모듈성을 강조하는 크로스 플랫폼 모바일
+ - 스마트 워치 프론트엔드 개발 , 기획 및 프로젝트 총괄,초기 디자인패턴 및 유지보수
+ - 개발환경 : linux, androidWear, EnyoJS, Json, jQuery, RESTful API
+ - [enyojs](https://webostv.developer.lge.com/develop/enyo-enact-developer-guide/)
+
+## KShop 쇼핑몰
+ - 포털 메인 , 서비스 메인 개발자로 개발/운영
+ - 전자정부 프레임워크, MyBatis, AngluerJs 오픈소스 프레임워크 
+ - SpringBoot , MyBatis, Ehcache를 사용한 서비스 성능 개선
+ - [kshopping](https://www.kshop.co.kr/#2)
+
+## 금융보안교육센터 이러닝 솔루션 유지보수
+ - 포털 메인 , 서비스 메인 개발자로 개발/운영
+
+
+# 📚 Educations
+## 리눅스 서버 관리 
+ - 임베디드리눅스교육센터
+ - 리눅스 기초에서 부터 서버 설치까지 교육 과정을 수료
+ - 실무에 적용 되는 리눅스 서버에 대해서 중점 교육
+ - [#linuxServer](https://www.inflearn.com/courses/it-programming)
+
+## 이공계 전문 기술 연수사업
+ - Kh 정보교육원
+ - 훈련과정 : Java Hybride Web-App 개발자 양성 과정
+ - 교육내용 : Java, Android, Jquery, Jsp, Spring, XML, HTML
+ - [#keduit](http://www.keduit.com/?gclid=CjwKCAiAv_KMBhAzEiwAs-rX1DSozMyYyeK1drAI8qimlamHdfCTnyFSypg1DIICaXeQN_cv3LHoSxoCLOEQAvD_BwE)

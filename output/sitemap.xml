@@ -4,6 +4,38 @@
         xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     
     <url>
+        <loc>http://localhost:4000/react_app.html</loc>
+        
+        <lastmod>2021-12-02T00:00:00+09:00</lastmod>
+        
+
+        
+        <changefreq>weekly</changefreq>
+        
+
+        
+        <priority>0.5</priority>
+        
+
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/react_basic.html</loc>
+        
+        <lastmod>2021-12-01T00:00:00+09:00</lastmod>
+        
+
+        
+        <changefreq>weekly</changefreq>
+        
+
+        
+        <priority>0.5</priority>
+        
+
+    </url>
+    
+    <url>
         <loc>http://localhost:4000/typescript.html</loc>
         
         <lastmod>2021-11-28T01:40:00+09:00</lastmod>
@@ -37,38 +69,6 @@
     
     <url>
         <loc>http://localhost:4000/react_chep02.html</loc>
-        
-        <lastmod>2021-11-28T01:40:00+09:00</lastmod>
-        
-
-        
-        <changefreq>weekly</changefreq>
-        
-
-        
-        <priority>0.5</priority>
-        
-
-    </url>
-    
-    <url>
-        <loc>http://localhost:4000/react_app.html</loc>
-        
-        <lastmod>2021-11-28T01:40:00+09:00</lastmod>
-        
-
-        
-        <changefreq>weekly</changefreq>
-        
-
-        
-        <priority>0.5</priority>
-        
-
-    </url>
-    
-    <url>
-        <loc>http://localhost:4000/react_basic.html</loc>
         
         <lastmod>2021-11-28T01:40:00+09:00</lastmod>
         
@@ -231,22 +231,6 @@
         <loc>http://localhost:4000/about-blog.html</loc>
         
         <lastmod>2021-11-21T00:00:00+09:00</lastmod>
-        
-
-        
-        <changefreq>weekly</changefreq>
-        
-
-        
-        <priority>0.5</priority>
-        
-
-    </url>
-    
-    <url>
-        <loc>http://localhost:4000/out-to-sea.html</loc>
-        
-        <lastmod>1912-07-24T19:18:00+09:00</lastmod>
         
 
         

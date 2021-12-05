@@ -25,6 +25,11 @@ Markdown으로 한 줄 작성하면 그 한 줄은 HTML의 <p></p> 태그로 변
 [#jekyllrb](https://jekyllrb.com/docs/)
 
 
+### jekyll 설치전 ruby 업데이트 방법
+  ` sudo gem install rubygems-update `
+  ` sudo update_rubygems ` 
+  ` sudo gem update --system `
+
 ## jekyll Hydejack 구조 설명
 
 > _config.yml
