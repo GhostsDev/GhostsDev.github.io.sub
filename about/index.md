@@ -10,14 +10,14 @@ subclass: 'post page'
 
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
-# 🤔 _Introduction_
+## 🤔 _Introduction_
 * 안녕하세요 !! 프론트 엔드 개발자 Ghosts 입니다. 
 
-# Contact & Channel
+## Contact & Channel
  - Email : memories109@gmail.com
  - Github : https://github.com/memories109
 
-# _Skill_
+## _Skill_
 <p>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
@@ -30,62 +30,63 @@ subclass: 'post page'
 <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/>
 </p>
 
-## BackEnd
+### BackEnd
  - Java, PHP
  - Spring Boot, Spring MVC, Spring Batch, Spring Data JPA
  - Rest API, Hibernate
  - Eclipse, Visual Studio Code
   
-## DevOps
+### DevOps
  - MySQL, MariaDB, Oracle, MongoDB
  - Jenkins, TravisCI
  - Nginx, Tomcat
  - Github
  
-## FrontEnd
+### FrontEnd
  - HTML5
  - CSS3(SCSS)
  - Jquery
  - npm
  - Jekyll, WordPress
   
-## Collaboration
+### Collaboration
  - RedMine & Wiki Confluence
 
 
-# 🌎 Experiences
-## 메일 통합관리 시스템 
+
+## 🌎 Experiences
+### 메일 통합관리 시스템 
  - php 프레임워크 , java 전환 
  - Naver 초청강사  Spring Data JPA 자바 관계형 데이터 정의 개념 
  - Hibernate 기술명세 구조 파악 습득
  - [mailnara](https://www.mailnara.co.kr/)
 
 
-## LG Smart W2 앱 개발
+### LG Smart W2 앱 개발
  - EnyoJs 사용
  - 객체 지향 캡슐화 및 모듈성을 강조하는 크로스 플랫폼 모바일
  - 스마트 워치 프론트엔드 개발 , 기획 및 프로젝트 총괄,초기 디자인패턴 및 유지보수
  - 개발환경 : linux, androidWear, EnyoJS, Json, jQuery, RESTful API
  - [enyojs](https://webostv.developer.lge.com/develop/enyo-enact-developer-guide/)
 
-## KShop 쇼핑몰
+### KShop 쇼핑몰
  - 포털 메인 , 서비스 메인 개발자로 개발/운영
  - 전자정부 프레임워크, MyBatis, AngluerJs 오픈소스 프레임워크 
  - SpringBoot , MyBatis, Ehcache를 사용한 서비스 성능 개선
  - [kshopping](https://www.kshop.co.kr/#2)
 
-## 금융보안교육센터 이러닝 솔루션 유지보수
+### 금융보안교육센터 이러닝 솔루션 유지보수
  - 포털 메인 , 서비스 메인 개발자로 개발/운영
 
 
-# 📚 Educations
-## 리눅스 서버 관리 
+## 📚 Educations
+### 리눅스 서버 관리 
  - 임베디드리눅스교육센터
  - 리눅스 기초에서 부터 서버 설치까지 교육 과정을 수료
  - 실무에 적용 되는 리눅스 서버에 대해서 중점 교육
  - [#linuxServer](https://www.inflearn.com/courses/it-programming)
 
-## 이공계 전문 기술 연수사업
+### 이공계 전문 기술 연수사업
  - Kh 정보교육원
  - 훈련과정 : Java Hybride Web-App 개발자 양성 과정
  - 교육내용 : Java, Android, Jquery, Jsp, Spring, XML, HTML
