@@ -30,6 +30,16 @@ Markdown으로 한 줄 작성하면 그 한 줄은 HTML의 <p></p> 태그로 변
   ` sudo update_rubygems ` 
   ` sudo gem update --system `
 
+###  ruby 재설치
+- ![ruby](https://stackoverflow.com/questions/1954206/cant-update-rubygems)
+```bash 
+If you've already tried to update, uninstall the latest rubygems-update first: sudo gem uninstall rubygems-update -v 1.3.5
+Update to 1.3.0: sudo gem install rubygems-update -v 1.3.0
+sudo update_rubygems
+Then update to latest: sudo gem update --system
+```
+
+
 ## jekyll Hydejack 구조 설명
 
 > _config.yml
