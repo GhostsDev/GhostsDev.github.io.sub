@@ -94,7 +94,7 @@ google_analytics: UA-xxxxxxxx-x # replace with your GA tracking identifier
 # Google Analytics을 사용할 경우 GA tracking identifier를 입력
 
 # Permalinks
-permalink: /:title
+permalink: /tag/:title
 # permalink: /author/:author
 # permalink: /tag/:title
 # 각각의 post에 고정주소를 어떤 방식으로 할당할 것인지를 결정
