@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="https://ghostsdev.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://ghostsdev.github.io/" rel="alternate" type="text/html" /><updated>2021-12-06T23:01:28+09:00</updated><id>https://ghostsdev.github.io/feed.xml</id><title type="html">Technical Ghosts</title><subtitle>creative special person</subtitle><entry><title type="html">React Beginning Chep4</title><link href="https://ghostsdev.github.io/tag/react_chep04" rel="alternate" type="text/html" title="React Beginning Chep4" /><published>2021-12-05T00:00:00+09:00</published><updated>2021-12-05T00:00:00+09:00</updated><id>https://ghostsdev.github.io/tag/react_chep04</id><content type="html" xml:base="https://ghostsdev.github.io/tag/react_chep04">&lt;h2 id=&quot;disable-eslint&quot;&gt;Disable eslint&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="https://ghostsdev.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://ghostsdev.github.io/" rel="alternate" type="text/html" /><updated>2021-12-06T23:08:31+09:00</updated><id>https://ghostsdev.github.io/feed.xml</id><title type="html">Technical Ghosts</title><subtitle>creative special person</subtitle><entry><title type="html">React Beginning Chep4</title><link href="https://ghostsdev.github.io/tag/react_chep04" rel="alternate" type="text/html" title="React Beginning Chep4" /><published>2021-12-05T00:00:00+09:00</published><updated>2021-12-05T00:00:00+09:00</updated><id>https://ghostsdev.github.io/tag/react_chep04</id><content type="html" xml:base="https://ghostsdev.github.io/tag/react_chep04">&lt;h2 id=&quot;disable-eslint&quot;&gt;Disable eslint&lt;/h2&gt;
 &lt;p&gt;&lt;img src=&quot;/assets/built/images/eslintDisable.png&quot; alt=&quot;eslintDisable&quot; /&gt;&lt;/p&gt;
 
 &lt;ul&gt;
@@ -334,7 +334,7 @@ node 설치 부터 React의 구조 파악에 중점을 두며
   &lt;li&gt;Create-React-App 라이브러리를 사용하기 위해 우선 nodejs를 설치 하도록 한다.&lt;/li&gt;
   &lt;li&gt;nodejs 홈페이지 접속후 버젼은 테스트 과정이기에 상관없이 다운로드 진행
  nodejs.org
-&lt;img src=&quot;/assets/built/images/react/reactsetting.png&quot; alt=&quot;react&quot; /&gt;
+&lt;img src=&quot;/assets/built/images/reactsetting.png&quot; alt=&quot;react&quot; /&gt;
     &lt;h2 id=&quot;nodejs를-설치가-되면-이제-부터-npm를-사용할수-있다&quot;&gt;nodejs를 설치가 되면 이제 부터 npm를 사용할수 있다.&lt;/h2&gt;
     &lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;npm 은 nodejs 패키지 관리툴이다. 
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
@@ -345,8 +345,8 @@ node 설치 부터 React의 구조 파악에 중점을 두며
 &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
   &lt;/li&gt;
   &lt;li&gt;vscode 에서 React 설치
-&lt;img src=&quot;/assets/built/images/react/create-react-app.png&quot; alt=&quot;react&quot; /&gt;
-&lt;img src=&quot;/assets/built/images/react/setup.png&quot; alt=&quot;react&quot; /&gt;&lt;/li&gt;
+&lt;img src=&quot;/assets/built/images/create-react-app.png&quot; alt=&quot;react&quot; /&gt;
+&lt;img src=&quot;/assets/built/images/setup.png&quot; alt=&quot;react&quot; /&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;설치가 완료된 이후 해당 폴더로 이동후 실행되는지 확인한다.&lt;/p&gt;
@@ -357,7 +357,7 @@ npm start
 
 &lt;ul&gt;
   &lt;li&gt;React의 기본 포트는 3000으로 시작한다. 
-&lt;img src=&quot;/assets/built/images/react/localbasic.png&quot; alt=&quot;react&quot; /&gt;&lt;/li&gt;
+&lt;img src=&quot;/assets/built/images/localbasic.png&quot; alt=&quot;react&quot; /&gt;&lt;/li&gt;
 &lt;/ul&gt;</content><author><name>memories109</name></author><category term="react" /><summary type="html">nodejs 검색후 최신버젼 설치 공부하는 과정에서 정리하는 관점에서 작성합니다. node 설치 부터 React의 구조 파악에 중점을 두며 실제 AWS 클라우드 서버에 배포 까지의 과정을 목표로 작성 한다. nodejs 설치 Create-React-App 라이브러리를 사용하기 위해 우선 nodejs를 설치 하도록 한다. nodejs 홈페이지 접속후 버젼은 테스트 과정이기에 상관없이 다운로드 진행 nodejs.org nodejs를 설치가 되면 이제 부터 npm를 사용할수 있다. npm 은 nodejs 패키지 관리툴이다. React 기본 프로젝트 생성 nodejs 를 설치 해야지 create-react-app 사용이 가능 npx create-react-app blog vscode 에서 React 설치 설치가 완료된 이후 해당 폴더로 이동후 실행되는지 확인한다. cd project npm start 잘실행이 되는 확인보자 React의 기본 포트는 3000으로 시작한다.</summary></entry><entry><title type="html">Who are you</title><link href="https://ghostsdev.github.io/tag/about-me" rel="alternate" type="text/html" title="Who are you" /><published>2021-11-28T01:40:00+09:00</published><updated>2021-11-28T01:40:00+09:00</updated><id>https://ghostsdev.github.io/tag/about-me</id><content type="html" xml:base="https://ghostsdev.github.io/tag/about-me">&lt;p&gt;&lt;a href=&quot;https://travis-ci.org/joemccann/dillinger&quot;&gt;&lt;img src=&quot;https://travis-ci.org/joemccann/dillinger.svg?branch=master&quot; alt=&quot;Build Status&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;h1 id=&quot;-introduction&quot;&gt;🤔 &lt;em&gt;Introduction&lt;/em&gt;&lt;/h1&gt;
 &lt;ul&gt;
