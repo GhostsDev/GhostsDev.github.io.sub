@@ -60,7 +60,7 @@ logo_dark:
 favicon: assets/built/images/favicon.jpg
 # favicon으로 사용할 image
 
-production_url: https://ghostsdev.github.io
+production_url: /
 # 최종적으로 blog가 운영될 url
 
 source_url: https://ghostsDev.github.io
