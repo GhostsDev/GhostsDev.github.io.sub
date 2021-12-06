@@ -2,10 +2,10 @@
 
 <feed xmlns="http://www.w3.org/2005/Atom" >
   <generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator>
-  <link href="https://ghostsdev.github.io//author/memories109/feed.xml" rel="self" type="application/atom+xml" />
-  <link href="https://ghostsdev.github.io//" rel="alternate" type="text/html" />
-  <updated>2021-12-06T22:46:16+09:00</updated>
-  <id>https://ghostsdev.github.io//author/memories109/feed.xml</id>
+  <link href="https://ghostsdev.github.io/author/memories109/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="https://ghostsdev.github.io/" rel="alternate" type="text/html" />
+  <updated>2021-12-06T22:49:57+09:00</updated>
+  <id>https://ghostsdev.github.io/author/memories109/feed.xml</id>
 
   
   
@@ -33,11 +33,11 @@
   
     <entry>
       <title type="html">React Beginning Chep4</title>
-      <link href="https://ghostsdev.github.io//tag/react_chep04" rel="alternate" type="text/html" title="React Beginning Chep4" />
+      <link href="https://ghostsdev.github.io/tag/react_chep04" rel="alternate" type="text/html" title="React Beginning Chep4" />
       <published>2021-12-05T00:00:00+09:00</published>
       <updated>2021-12-05T00:00:00+09:00</updated>
-      <id>https://ghostsdev.github.io//tag/react_chep04</id>
-      <content type="html" xml:base="https://ghostsdev.github.io//tag/react_chep04">&lt;h2 id=&quot;disable-eslint&quot;&gt;Disable eslint&lt;/h2&gt;
+      <id>https://ghostsdev.github.io/tag/react_chep04</id>
+      <content type="html" xml:base="https://ghostsdev.github.io/tag/react_chep04">&lt;h2 id=&quot;disable-eslint&quot;&gt;Disable eslint&lt;/h2&gt;
 &lt;p&gt;&lt;img src=&quot;assets/built/images/eslintDisable.png&quot; alt=&quot;eslintDisable&quot; /&gt;&lt;/p&gt;
 
 &lt;ul&gt;
@@ -91,11 +91,11 @@ let [data, chagne] = useSate([‘test’, ‘test2’]);&lt;/li&gt;
   
     <entry>
       <title type="html">React Beginning Chep3</title>
-      <link href="https://ghostsdev.github.io//tag/react_chep03" rel="alternate" type="text/html" title="React Beginning Chep3" />
+      <link href="https://ghostsdev.github.io/tag/react_chep03" rel="alternate" type="text/html" title="React Beginning Chep3" />
       <published>2021-12-04T00:00:00+09:00</published>
       <updated>2021-12-04T00:00:00+09:00</updated>
-      <id>https://ghostsdev.github.io//tag/react_chep03</id>
-      <content type="html" xml:base="https://ghostsdev.github.io//tag/react_chep03">&lt;h1 id=&quot;글목록-ui-만들기&quot;&gt;글목록 UI 만들기&lt;/h1&gt;
+      <id>https://ghostsdev.github.io/tag/react_chep03</id>
+      <content type="html" xml:base="https://ghostsdev.github.io/tag/react_chep03">&lt;h1 id=&quot;글목록-ui-만들기&quot;&gt;글목록 UI 만들기&lt;/h1&gt;
 &lt;div class=&quot;language-css highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;c&quot;&gt;/* App.css 추가 */&lt;/span&gt;
 &lt;span class=&quot;nc&quot;&gt;.list&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
   &lt;span class=&quot;nl&quot;&gt;margin-top&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;30px&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
@@ -174,11 +174,11 @@ let [data, chagne] = useSate([‘test’, ‘test2’]);&lt;/li&gt;
   
     <entry>
       <title type="html">React Beginning Chep2</title>
-      <link href="https://ghostsdev.github.io//tag/react_chep02" rel="alternate" type="text/html" title="React Beginning Chep2" />
+      <link href="https://ghostsdev.github.io/tag/react_chep02" rel="alternate" type="text/html" title="React Beginning Chep2" />
       <published>2021-12-03T00:00:00+09:00</published>
       <updated>2021-12-03T00:00:00+09:00</updated>
-      <id>https://ghostsdev.github.io//tag/react_chep02</id>
-      <content type="html" xml:base="https://ghostsdev.github.io//tag/react_chep02">&lt;h1 id=&quot;jsx-coding-문법&quot;&gt;JSX Coding 문법&lt;/h1&gt;
+      <id>https://ghostsdev.github.io/tag/react_chep02</id>
+      <content type="html" xml:base="https://ghostsdev.github.io/tag/react_chep02">&lt;h1 id=&quot;jsx-coding-문법&quot;&gt;JSX Coding 문법&lt;/h1&gt;
 
 &lt;div class=&quot;language-javascript highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;kd&quot;&gt;function&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;App&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
   &lt;span class=&quot;k&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;
@@ -281,11 +281,11 @@ style={  {color : 'blue',fontSize: '30ox'}} /* object 타입형식으로 적용 
   
     <entry>
       <title type="html">React Beginning Chep1</title>
-      <link href="https://ghostsdev.github.io//tag/react_app" rel="alternate" type="text/html" title="React Beginning Chep1" />
+      <link href="https://ghostsdev.github.io/tag/react_app" rel="alternate" type="text/html" title="React Beginning Chep1" />
       <published>2021-12-02T00:00:00+09:00</published>
       <updated>2021-12-02T00:00:00+09:00</updated>
-      <id>https://ghostsdev.github.io//tag/react_app</id>
-      <content type="html" xml:base="https://ghostsdev.github.io//tag/react_app">&lt;h1 id=&quot;react-구조---&quot;&gt;React 구조   ✨&lt;/h1&gt;
+      <id>https://ghostsdev.github.io/tag/react_app</id>
+      <content type="html" xml:base="https://ghostsdev.github.io/tag/react_app">&lt;h1 id=&quot;react-구조---&quot;&gt;React 구조   ✨&lt;/h1&gt;
 &lt;p&gt;&lt;img src=&quot;/assets/built/images/folder.png&quot; alt=&quot;react&quot; /&gt;&lt;/p&gt;
 &lt;ul&gt;
   &lt;li&gt;기본적인 React 구조를 확인 할 수 있다.&lt;/li&gt;
@@ -390,11 +390,11 @@ style={  {color : 'blue',fontSize: '30ox'}} /* object 타입형식으로 적용 
   
     <entry>
       <title type="html">백준 2231</title>
-      <link href="https://ghostsdev.github.io//tag/Question-2231" rel="alternate" type="text/html" title="백준 2231" />
+      <link href="https://ghostsdev.github.io/tag/Question-2231" rel="alternate" type="text/html" title="백준 2231" />
       <published>2021-12-01T00:00:00+09:00</published>
       <updated>2021-12-01T00:00:00+09:00</updated>
-      <id>https://ghostsdev.github.io//tag/Question-2231</id>
-      <content type="html" xml:base="https://ghostsdev.github.io//tag/Question-2231">&lt;div class=&quot;language-java highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;kn&quot;&gt;package&lt;/span&gt; &lt;span class=&quot;nn&quot;&gt;BruteForce&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;;&lt;/span&gt;
+      <id>https://ghostsdev.github.io/tag/Question-2231</id>
+      <content type="html" xml:base="https://ghostsdev.github.io/tag/Question-2231">&lt;div class=&quot;language-java highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;kn&quot;&gt;package&lt;/span&gt; &lt;span class=&quot;nn&quot;&gt;BruteForce&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;;&lt;/span&gt;
 
 &lt;span class=&quot;kn&quot;&gt;import&lt;/span&gt; &lt;span class=&quot;nn&quot;&gt;java.io.BufferedReader&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;;&lt;/span&gt;
 &lt;span class=&quot;kn&quot;&gt;import&lt;/span&gt; &lt;span class=&quot;nn&quot;&gt;java.io.InputStreamReader&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;;&lt;/span&gt;
@@ -459,11 +459,11 @@ style={  {color : 'blue',fontSize: '30ox'}} /* object 타입형식으로 적용 
   
     <entry>
       <title type="html">백준 2798</title>
-      <link href="https://ghostsdev.github.io//tag/Question-2798" rel="alternate" type="text/html" title="백준 2798" />
+      <link href="https://ghostsdev.github.io/tag/Question-2798" rel="alternate" type="text/html" title="백준 2798" />
       <published>2021-12-01T00:00:00+09:00</published>
       <updated>2021-12-01T00:00:00+09:00</updated>
-      <id>https://ghostsdev.github.io//tag/Question-2798</id>
-      <content type="html" xml:base="https://ghostsdev.github.io//tag/Question-2798">&lt;div class=&quot;language-java highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;kn&quot;&gt;package&lt;/span&gt; &lt;span class=&quot;nn&quot;&gt;BruteForce&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;;&lt;/span&gt;
+      <id>https://ghostsdev.github.io/tag/Question-2798</id>
+      <content type="html" xml:base="https://ghostsdev.github.io/tag/Question-2798">&lt;div class=&quot;language-java highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;kn&quot;&gt;package&lt;/span&gt; &lt;span class=&quot;nn&quot;&gt;BruteForce&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;;&lt;/span&gt;
 &lt;span class=&quot;kn&quot;&gt;import&lt;/span&gt; &lt;span class=&quot;nn&quot;&gt;java.io.BufferedReader&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;;&lt;/span&gt;
 &lt;span class=&quot;kn&quot;&gt;import&lt;/span&gt; &lt;span class=&quot;nn&quot;&gt;java.io.InputStreamReader&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;;&lt;/span&gt;
 &lt;span class=&quot;kn&quot;&gt;import&lt;/span&gt; &lt;span class=&quot;nn&quot;&gt;java.util.StringTokenizer&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;;&lt;/span&gt;
@@ -563,11 +563,11 @@ style={  {color : 'blue',fontSize: '30ox'}} /* object 타입형식으로 적용 
   
     <entry>
       <title type="html">React Beginning Chep0</title>
-      <link href="https://ghostsdev.github.io//tag/react_basic" rel="alternate" type="text/html" title="React Beginning Chep0" />
+      <link href="https://ghostsdev.github.io/tag/react_basic" rel="alternate" type="text/html" title="React Beginning Chep0" />
       <published>2021-12-01T00:00:00+09:00</published>
       <updated>2021-12-01T00:00:00+09:00</updated>
-      <id>https://ghostsdev.github.io//tag/react_basic</id>
-      <content type="html" xml:base="https://ghostsdev.github.io//tag/react_basic">&lt;h1 id=&quot;nodejs-검색후-최신버젼-설치&quot;&gt;nodejs 검색후 최신버젼 설치&lt;/h1&gt;
+      <id>https://ghostsdev.github.io/tag/react_basic</id>
+      <content type="html" xml:base="https://ghostsdev.github.io/tag/react_basic">&lt;h1 id=&quot;nodejs-검색후-최신버젼-설치&quot;&gt;nodejs 검색후 최신버젼 설치&lt;/h1&gt;
 &lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;공부하는 과정에서 정리하는 관점에서 작성합니다. 
 node 설치 부터 React의 구조 파악에 중점을 두며 
 실제 AWS 클라우드 서버에 배포 까지의 과정을 목표로 작성 한다. 
@@ -631,11 +631,11 @@ npm start
   
     <entry>
       <title type="html">Who are you</title>
-      <link href="https://ghostsdev.github.io//tag/about-me" rel="alternate" type="text/html" title="Who are you" />
+      <link href="https://ghostsdev.github.io/tag/about-me" rel="alternate" type="text/html" title="Who are you" />
       <published>2021-11-28T01:40:00+09:00</published>
       <updated>2021-11-28T01:40:00+09:00</updated>
-      <id>https://ghostsdev.github.io//tag/about-me</id>
-      <content type="html" xml:base="https://ghostsdev.github.io//tag/about-me">&lt;p&gt;&lt;a href=&quot;https://travis-ci.org/joemccann/dillinger&quot;&gt;&lt;img src=&quot;https://travis-ci.org/joemccann/dillinger.svg?branch=master&quot; alt=&quot;Build Status&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+      <id>https://ghostsdev.github.io/tag/about-me</id>
+      <content type="html" xml:base="https://ghostsdev.github.io/tag/about-me">&lt;p&gt;&lt;a href=&quot;https://travis-ci.org/joemccann/dillinger&quot;&gt;&lt;img src=&quot;https://travis-ci.org/joemccann/dillinger.svg?branch=master&quot; alt=&quot;Build Status&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;h1 id=&quot;-introduction&quot;&gt;🤔 &lt;em&gt;Introduction&lt;/em&gt;&lt;/h1&gt;
 &lt;ul&gt;
   &lt;li&gt;안녕하세요 !! 프론트 엔드 개발자 Ghosts 입니다.&lt;/li&gt;
@@ -766,11 +766,11 @@ npm start
   
     <entry>
       <title type="html">Typescript Beginning Chep1</title>
-      <link href="https://ghostsdev.github.io//tag/typescript" rel="alternate" type="text/html" title="Typescript Beginning Chep1" />
+      <link href="https://ghostsdev.github.io/tag/typescript" rel="alternate" type="text/html" title="Typescript Beginning Chep1" />
       <published>2021-11-28T01:40:00+09:00</published>
       <updated>2021-11-28T01:40:00+09:00</updated>
-      <id>https://ghostsdev.github.io//tag/typescript</id>
-      <content type="html" xml:base="https://ghostsdev.github.io//tag/typescript"></content>
+      <id>https://ghostsdev.github.io/tag/typescript</id>
+      <content type="html" xml:base="https://ghostsdev.github.io/tag/typescript"></content>
 
       
       
@@ -800,11 +800,11 @@ npm start
   
     <entry>
       <title type="html">Python 강좌(1) - Python 기본</title>
-      <link href="https://ghostsdev.github.io//tag/python-basic" rel="alternate" type="text/html" title="Python 강좌(1) - Python 기본" />
+      <link href="https://ghostsdev.github.io/tag/python-basic" rel="alternate" type="text/html" title="Python 강좌(1) - Python 기본" />
       <published>2021-11-27T00:00:00+09:00</published>
       <updated>2021-11-27T00:00:00+09:00</updated>
-      <id>https://ghostsdev.github.io//tag/python-basic</id>
-      <content type="html" xml:base="https://ghostsdev.github.io//tag/python-basic">&lt;p&gt;&lt;span class=&quot;table-of-contents-list&quot;&gt;Python 강좌는 여러 절로 구성되어 있습니다. &lt;/span&gt;&lt;/p&gt;
+      <id>https://ghostsdev.github.io/tag/python-basic</id>
+      <content type="html" xml:base="https://ghostsdev.github.io/tag/python-basic">&lt;p&gt;&lt;span class=&quot;table-of-contents-list&quot;&gt;Python 강좌는 여러 절로 구성되어 있습니다. &lt;/span&gt;&lt;/p&gt;
 &lt;ul class=&quot;table-of-contents-list&quot;&gt;
     &lt;li&gt;&lt;a href=&quot;./python-basic&quot;&gt;Python 강좌(1) - Python 기본&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href=&quot;./python-control-statement&quot;&gt;Python 강좌(2) - Python 제어문&lt;/a&gt;&lt;/li&gt;

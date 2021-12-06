@@ -4,7 +4,7 @@
     <title> - Articles</title>
     <description>creative special person</description>
     <link>
-    https://ghostsdev.github.io/</link>
+    https://ghostsdev.github.io</link>
     
       
       <item>
@@ -40,8 +40,8 @@ let [data, chagne] = useSate([‘test’, ‘test2’]);&lt;/li&gt;
         
         <pubDate>Sun, 05 Dec 2021 00:00:00 +0900</pubDate>
         <link>
-        https://ghostsdev.github.io//tag/react_chep04</link>
-        <guid isPermaLink="true">https://ghostsdev.github.io//tag/react_chep04</guid>
+        https://ghostsdev.github.io/tag/react_chep04</link>
+        <guid isPermaLink="true">https://ghostsdev.github.io/tag/react_chep04</guid>
       </item>
       
     
@@ -104,8 +104,8 @@ let [data, chagne] = useSate([‘test’, ‘test2’]);&lt;/li&gt;
         
         <pubDate>Sat, 04 Dec 2021 00:00:00 +0900</pubDate>
         <link>
-        https://ghostsdev.github.io//tag/react_chep03</link>
-        <guid isPermaLink="true">https://ghostsdev.github.io//tag/react_chep03</guid>
+        https://ghostsdev.github.io/tag/react_chep03</link>
+        <guid isPermaLink="true">https://ghostsdev.github.io/tag/react_chep03</guid>
       </item>
       
     
@@ -191,8 +191,8 @@ style={  {color : 'blue',fontSize: '30ox'}} /* object 타입형식으로 적용 
         
         <pubDate>Fri, 03 Dec 2021 00:00:00 +0900</pubDate>
         <link>
-        https://ghostsdev.github.io//tag/react_chep02</link>
-        <guid isPermaLink="true">https://ghostsdev.github.io//tag/react_chep02</guid>
+        https://ghostsdev.github.io/tag/react_chep02</link>
+        <guid isPermaLink="true">https://ghostsdev.github.io/tag/react_chep02</guid>
       </item>
       
     
@@ -280,8 +280,8 @@ style={  {color : 'blue',fontSize: '30ox'}} /* object 타입형식으로 적용 
         
         <pubDate>Thu, 02 Dec 2021 00:00:00 +0900</pubDate>
         <link>
-        https://ghostsdev.github.io//tag/react_app</link>
-        <guid isPermaLink="true">https://ghostsdev.github.io//tag/react_app</guid>
+        https://ghostsdev.github.io/tag/react_app</link>
+        <guid isPermaLink="true">https://ghostsdev.github.io/tag/react_app</guid>
       </item>
       
     
@@ -329,8 +329,8 @@ npm start
         
         <pubDate>Wed, 01 Dec 2021 00:00:00 +0900</pubDate>
         <link>
-        https://ghostsdev.github.io//tag/react_basic</link>
-        <guid isPermaLink="true">https://ghostsdev.github.io//tag/react_basic</guid>
+        https://ghostsdev.github.io/tag/react_basic</link>
+        <guid isPermaLink="true">https://ghostsdev.github.io/tag/react_basic</guid>
       </item>
       
     
@@ -342,8 +342,8 @@ npm start
         
         <pubDate>Wed, 01 Dec 2021 00:00:00 +0900</pubDate>
         <link>
-        https://ghostsdev.github.io//tag/Question-2798</link>
-        <guid isPermaLink="true">https://ghostsdev.github.io//tag/Question-2798</guid>
+        https://ghostsdev.github.io/tag/Question-2798</link>
+        <guid isPermaLink="true">https://ghostsdev.github.io/tag/Question-2798</guid>
       </item>
       
     
@@ -355,8 +355,8 @@ npm start
         
         <pubDate>Wed, 01 Dec 2021 00:00:00 +0900</pubDate>
         <link>
-        https://ghostsdev.github.io//tag/Question-2231</link>
-        <guid isPermaLink="true">https://ghostsdev.github.io//tag/Question-2231</guid>
+        https://ghostsdev.github.io/tag/Question-2231</link>
+        <guid isPermaLink="true">https://ghostsdev.github.io/tag/Question-2231</guid>
       </item>
       
     
@@ -369,8 +369,8 @@ npm start
         
         <pubDate>Sun, 28 Nov 2021 01:40:00 +0900</pubDate>
         <link>
-        https://ghostsdev.github.io//tag/typescript</link>
-        <guid isPermaLink="true">https://ghostsdev.github.io//tag/typescript</guid>
+        https://ghostsdev.github.io/tag/typescript</link>
+        <guid isPermaLink="true">https://ghostsdev.github.io/tag/typescript</guid>
       </item>
       
     
@@ -388,8 +388,8 @@ npm start
         
         <pubDate>Sun, 28 Nov 2021 01:40:00 +0900</pubDate>
         <link>
-        https://ghostsdev.github.io//tag/about-me</link>
-        <guid isPermaLink="true">https://ghostsdev.github.io//tag/about-me</guid>
+        https://ghostsdev.github.io/tag/about-me</link>
+        <guid isPermaLink="true">https://ghostsdev.github.io/tag/about-me</guid>
       </item>
       
     
@@ -416,8 +416,8 @@ npm start
         
         <pubDate>Sat, 27 Nov 2021 00:00:00 +0900</pubDate>
         <link>
-        https://ghostsdev.github.io//tag/python-basic</link>
-        <guid isPermaLink="true">https://ghostsdev.github.io//tag/python-basic</guid>
+        https://ghostsdev.github.io/tag/python-basic</link>
+        <guid isPermaLink="true">https://ghostsdev.github.io/tag/python-basic</guid>
       </item>
       
     
@@ -429,8 +429,8 @@ npm start
         
         <pubDate>Wed, 24 Nov 2021 00:00:00 +0900</pubDate>
         <link>
-        https://ghostsdev.github.io//tag/socket-in</link>
-        <guid isPermaLink="true">https://ghostsdev.github.io//tag/socket-in</guid>
+        https://ghostsdev.github.io/tag/socket-in</link>
+        <guid isPermaLink="true">https://ghostsdev.github.io/tag/socket-in</guid>
       </item>
       
     
@@ -442,8 +442,8 @@ npm start
         
         <pubDate>Wed, 24 Nov 2021 00:00:00 +0900</pubDate>
         <link>
-        https://ghostsdev.github.io//tag/rest-in</link>
-        <guid isPermaLink="true">https://ghostsdev.github.io//tag/rest-in</guid>
+        https://ghostsdev.github.io/tag/rest-in</link>
+        <guid isPermaLink="true">https://ghostsdev.github.io/tag/rest-in</guid>
       </item>
       
     
@@ -455,8 +455,8 @@ npm start
         
         <pubDate>Tue, 23 Nov 2021 00:00:00 +0900</pubDate>
         <link>
-        https://ghostsdev.github.io//tag/github-actionblog</link>
-        <guid isPermaLink="true">https://ghostsdev.github.io//tag/github-actionblog</guid>
+        https://ghostsdev.github.io/tag/github-actionblog</link>
+        <guid isPermaLink="true">https://ghostsdev.github.io/tag/github-actionblog</guid>
       </item>
       
     
@@ -468,8 +468,8 @@ npm start
         
         <pubDate>Mon, 22 Nov 2021 00:00:00 +0900</pubDate>
         <link>
-        https://ghostsdev.github.io//tag/travisci-ci</link>
-        <guid isPermaLink="true">https://ghostsdev.github.io//tag/travisci-ci</guid>
+        https://ghostsdev.github.io/tag/travisci-ci</link>
+        <guid isPermaLink="true">https://ghostsdev.github.io/tag/travisci-ci</guid>
       </item>
       
     
@@ -481,8 +481,8 @@ npm start
         
         <pubDate>Sun, 21 Nov 2021 00:00:00 +0900</pubDate>
         <link>
-        https://ghostsdev.github.io//tag/tutorial-blog</link>
-        <guid isPermaLink="true">https://ghostsdev.github.io//tag/tutorial-blog</guid>
+        https://ghostsdev.github.io/tag/tutorial-blog</link>
+        <guid isPermaLink="true">https://ghostsdev.github.io/tag/tutorial-blog</guid>
       </item>
       
     
@@ -494,8 +494,8 @@ npm start
         
         <pubDate>Sun, 21 Nov 2021 00:00:00 +0900</pubDate>
         <link>
-        https://ghostsdev.github.io//tag/about-blog</link>
-        <guid isPermaLink="true">https://ghostsdev.github.io//tag/about-blog</guid>
+        https://ghostsdev.github.io/tag/about-blog</link>
+        <guid isPermaLink="true">https://ghostsdev.github.io/tag/about-blog</guid>
       </item>
       
     
