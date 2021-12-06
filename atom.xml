@@ -11,7 +11,7 @@
         <title>React Beginning Chep4</title>
         
           <description>&lt;h2 id=&quot;disable-eslint&quot;&gt;Disable eslint&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&quot;assets/built/images/eslintDisable.png&quot; alt=&quot;eslintDisable&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/built/images/eslintDisable.png&quot; alt=&quot;eslintDisable&quot; /&gt;&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;개발진행시 터미널 warning 경고문 제거하는 방법
@@ -66,7 +66,7 @@ let [data, chagne] = useSate([‘test’, ‘test2’]);&lt;/li&gt;
 &lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 &lt;ul&gt;
   &lt;li&gt;새로운 div 글목록이 생성 되었다 
- &lt;img src=&quot;assets/built/images/listui.png&quot; alt=&quot;글목록&quot; /&gt;&lt;/li&gt;
+ &lt;img src=&quot;/assets/built/images/listui.png&quot; alt=&quot;글목록&quot; /&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h1 id=&quot;state-문법-사용해보기&quot;&gt;state 문법 사용해보기&lt;/h1&gt;
