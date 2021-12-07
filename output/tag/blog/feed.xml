@@ -1,0 +1,410 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<feed xmlns="http://www.w3.org/2005/Atom" >
+  <generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator>
+  <link href="http://localhost:4000/tag/blog/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="http://localhost:4000/" rel="alternate" type="text/html" />
+  <updated>2021-12-07T12:59:02+09:00</updated>
+  <id>http://localhost:4000/tag/blog/feed.xml</id>
+
+  
+  
+  
+
+  
+    <title type="html">Technical Ghosts | </title>
+  
+
+  
+    <subtitle>creative special person</subtitle>
+  
+
+  
+
+  
+    
+      
+    
+  
+
+  
+  
+
+  
+    <entry>
+      <title type="html">Socket 통신 개념잡기</title>
+      <link href="http://localhost:4000/tag/socket-in" rel="alternate" type="text/html" title="Socket 통신 개념잡기" />
+      <published>2021-11-24T00:00:00+09:00</published>
+      <updated>2021-11-24T00:00:00+09:00</updated>
+      <id>http://localhost:4000/tag/socket-in</id>
+      <content type="html" xml:base="http://localhost:4000/tag/socket-in"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>memories109</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="blog" />
+      
+
+      
+        <summary type="html">양반향 통신의 Socket에 대해서 알아보겠다.</summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">REST(REpresentational State Transfer) 정의</title>
+      <link href="http://localhost:4000/tag/rest-in" rel="alternate" type="text/html" title="REST(REpresentational State Transfer) 정의" />
+      <published>2021-11-24T00:00:00+09:00</published>
+      <updated>2021-11-24T00:00:00+09:00</updated>
+      <id>http://localhost:4000/tag/rest-in</id>
+      <content type="html" xml:base="http://localhost:4000/tag/rest-in">&lt;h1 id=&quot;rest의-정의&quot;&gt;REST의 정의&lt;/h1&gt;
+&lt;ul&gt;
+  &lt;li&gt;REpresentational State Transfer의 약자로, 
+자원의 이름으로 구분하여 정보를 주고 받을수 있는 모든것을 의미 한다.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;REST는 HTTP 프로토콜을 이용하기 때문에 웹의 장점을 최대한 활용이 가능한 아키텍처이다 
+REST는 네트워크 상에서 Client 와 Server 사이의 통신 방식중 하나이다.&lt;/p&gt;
+
+&lt;h1 id=&quot;rest의-개념&quot;&gt;REST의 개념&lt;/h1&gt;
+&lt;p&gt;자원에 대해서 CRUD(Create, Read, Update, Delete)연산을 수행하기 위한 URI(Resource)로 
+GET, POST 방식을 사용하여 요청을 보낸다.&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;URI 와 URL의 차이점?
+  URL은 Uniform Resource Locator로 인터넷 상의 자원의 위치를 의미한다. 
+  URI는 Uniform Resource Identifier로 인터넷 상의 자원을 식별하기 위한 문자열의 구성이다.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h1 id=&quot;rest의-구성요소&quot;&gt;REST의 구성요소&lt;/h1&gt;
+&lt;ul&gt;
+  &lt;li&gt;자원(Resource) -URI
+    &lt;blockquote&gt;
+      &lt;p&gt;자원에는 고유한 ID가 존재하고, 이 자원은 Serve에 존재한다.
+자원을 구별하는 ID는 ‘/exgroups/:exgroup_id’와 같은 HTTP URI 이다.
+Client는 URI를 이용해 자원을 지정하고 해당자원의 상태에 대해 Server에 요청한다.&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;행위(Verb) - Method
+ ```html
+HTTP 프로토콜의 Method를 사용
+HTTP 프로토콜은 GET, POST, PUT, PATCH, DELETE의 Method를 제공한다. (CRUD)&lt;/p&gt;
+
+    &lt;p&gt;GET - Read : 정보 요청
+ POIST - Create : 정보 입력
+ PUT - Update : 정보 업데이트 (데이터 전체를 변경)
+ PATCH - Update : 정보 업데이트 (데이터 일부만 변경) 
+ DELETE - Delete : 정보 삭제&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;```&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;표현 (Representation of Resource)
+    &lt;blockquote&gt;
+      &lt;p&gt;Client의 Server가 데이터를 주고 받는 형태로 JSON, XML, TEXT, RSS 등이 있다.
+JSON, XML를 통해 데이터를 주고 받는것이 일반적&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;rest-api란&quot;&gt;REST API란?&lt;/h1&gt;
+&lt;ul&gt;
+  &lt;li&gt;API(Application Programming Interface)란?
+    &lt;blockquote&gt;
+      &lt;p&gt;API는 응용 프로그램에서 사용할 수 있도록 , 운영체제나 프로그래밍 언어가 제공하는 기능을 제어할 수 있도록 만든 인터페이스 이다.&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+  &lt;li&gt;REST API의 정의
+    &lt;blockquote&gt;
+      &lt;p&gt;REST의 특징을 기반으로 서비스 API를 구현&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id=&quot;rest-api-와-restful-api의-차이점&quot;&gt;REST API 와 RESTful API의 차이점&lt;/h1&gt;
+&lt;ul&gt;
+  &lt;li&gt;RESTful은 REST의 설계 규칙을 잘 지켜서 설계된 API를 RESTful한 API라고 한다. 
+ 즉, REST의 원리를 잘 따르는 시스템을 RESTful이란 용어로 지칭&lt;/li&gt;
+&lt;/ul&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>memories109</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="blog" />
+      
+
+      
+        <summary type="html">Rest 개념 잡기</summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">GitHub Action 자동화 배포</title>
+      <link href="http://localhost:4000/tag/github-actionblog" rel="alternate" type="text/html" title="GitHub Action 자동화 배포" />
+      <published>2021-11-23T00:00:00+09:00</published>
+      <updated>2021-11-23T00:00:00+09:00</updated>
+      <id>http://localhost:4000/tag/github-actionblog</id>
+      <content type="html" xml:base="http://localhost:4000/tag/github-actionblog">&lt;h1 id=&quot;github-action-자동화-배포&quot;&gt;GitHub Action 자동화 배포&lt;/h1&gt;
+&lt;p&gt;이전 문서화 작업중에서 TravisCi에 대해서 언급한적이 있다
+개발도중 만나게된 응답 오류, 빌드 시간, 커스텀 어려움 복잡도 기타등등 …..
+그런 문제로 찾아본 결과 GitHub Action을 검토 하였으며 
+속도측면이나 기존 GitHub 관리하는 입장에서 AccessTokene등록후 간단한 Workflows작성시 Git Push 이후에 자동 배포가 무척간편해 졌다&lt;/p&gt;
+
+&lt;h2 id=&quot;github-action-설정방법&quot;&gt;GitHub Action 설정방법&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;기본 설정 방법
+&lt;img src=&quot;/assets/built/images/customer/gitaction.png&quot; alt=&quot;gitAction&quot; /&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Github Action의 메뉴 구성들이다. Jekyll Workflow를 사용하기 설치 해준다.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/built/images/customer/gitaction2.png&quot; alt=&quot;gitAction&quot; /&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;코드 
+&lt;img src=&quot;/assets/built/images/customer/blog4.png&quot; alt=&quot;gitAction&quot; /&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;빌드 과정&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>memories109</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="blog" />
+      
+
+      
+        <summary type="html">Github Action</summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">jekyll Travis CI 배포 자동화</title>
+      <link href="http://localhost:4000/tag/travisci-ci" rel="alternate" type="text/html" title="jekyll Travis CI 배포 자동화" />
+      <published>2021-11-22T00:00:00+09:00</published>
+      <updated>2021-11-22T00:00:00+09:00</updated>
+      <id>http://localhost:4000/tag/travisci-ci</id>
+      <content type="html" xml:base="http://localhost:4000/tag/travisci-ci">&lt;h1 id=&quot;travis-ci&quot;&gt;Travis CI&lt;/h1&gt;
+&lt;p&gt;Travis CI는 배포 자동화 툴입니다. 유명한 Jenkis와 비교하시면 됩니다. 
+&lt;a href=&quot;https://travis-ci.org/&quot;&gt;#travis-ci&lt;/a&gt;&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>memories109</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="blog" />
+      
+
+      
+        <summary type="html">jekyll Travis CI 배포 자동화(1)</summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">github.io 포트폴리오 제작하기</title>
+      <link href="http://localhost:4000/tag/tutorial-blog" rel="alternate" type="text/html" title="github.io 포트폴리오 제작하기" />
+      <published>2021-11-21T00:00:00+09:00</published>
+      <updated>2021-11-21T00:00:00+09:00</updated>
+      <id>http://localhost:4000/tag/tutorial-blog</id>
+      <content type="html" xml:base="http://localhost:4000/tag/tutorial-blog">&lt;p&gt;포트폴리오는 제작하기에 어떤 방법이 있을지 고민을 많이 하였다.
+여러 참고 사이트 무료 홈페이지 제작 사이트등 이런저런 꼼수도 여러곳 보았다.&lt;/p&gt;
+
+&lt;p&gt;개발자라면 그래도 자신이 만든 포트폴리오가 필요해 보였다.
+그래서 GitHub Page를 이용한 나만의 포트폴리오를 만들려고 한다.&lt;/p&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name>memories109</name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="blog" />
+      
+
+      
+        <summary type="html">GitHub Blog 서비스인 github.io 블로그 시작</summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Blog - Jekyll Hydejack 개념잡기</title>
+      <link href="http://localhost:4000/tag/about-blog" rel="alternate" type="text/html" title="Blog - Jekyll Hydejack 개념잡기" />
+      <published>2021-11-21T00:00:00+09:00</published>
+      <updated>2021-11-22T01:07:00+09:00</updated>
+      <id>http://localhost:4000/tag/about-blog</id>
+      <content type="html" xml:base="http://localhost:4000/tag/about-blog">&lt;p&gt;&lt;img src=&quot;https://drive.google.com/uc?export=view&amp;amp;id=1VCnN949u6AEM_AKTr2WgbcJWjBB5NXwI&quot; alt=&quot;Screenshot&quot; class=&quot;lead&quot; width=&quot;1920&quot; height=&quot;1080&quot; loading=&quot;lazy&quot; /&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;jekylls-what-is-&quot;&gt;Jekyll’s What is ?&lt;/h1&gt;
+&lt;p&gt;Jekyll은 여러 텍스트 파일로부터 정적 웹사이트 구축을 위한 파일을 생성해주는 프레임워크이다.
+쉽게 말해서 Jekyll은 다양한 형식의 텍스트 파일을 웹 페이지 구성 요소인 HTML, CSS로 변환해준다.&lt;/p&gt;
+
+&lt;p&gt;Jekyll에서 특히 내가 좋아하는 기능은 Markdown으로 작성한 문서를 HTML 파일로 변환시켜주는 기능이다.
+Markdown으로 한 줄 작성하면 그 한 줄은 HTML의 &amp;lt;p&amp;gt;&amp;lt;/p&amp;gt; 태그로 변환된다.
+물론 단순히 변환만으로 끝나는 것이 아니다. 정적 웹사이트를 만든다는 목적에 맞게, 변환된 내용이 그럴듯한 웹 화면으로 보이게끔 자동화된 방법으로 페이지를 꾸미는 것을 돕는다.&lt;/p&gt;
+
+&lt;p&gt;또한 인터넷에 아주 많은 Jekyll Theme이 올라와 있으므로 웹 페이지를 빈 화면으로부터 하나하나 다 만들 필요가 없으며, 적당한 테마를 다운받고 가져다 쓰면 된다. 이쁜 테마를 선택했고 뷰가 맘에 든다면 별다른 수정없이 그저 포스팅만 해도 된다.&lt;/p&gt;
+
+&lt;p&gt;예를들어, 내 블로그의 데스크탑 모드 화면에서 상단 메뉴(Topbar)와 왼쪽 사이드바는 내가 직접 HTML, CSS를 수정 및 적용했다. 또 Jekyll의 도움으로 다른 페이지에서도 항상 이 2가지가 화면에 보이도록 자동화했다. (반응형 웹으로 만들었기 때문에 모바일 모드로 보면 좀 다르다.)
+동시에 포스트 페이지의 글 부분은 Markdown으로 작성하였다. 이것을 Jekyll이 자동으로 HTML 파일로 변환했고, 나는 그저 Markdown 포스트가 HTML로 변환된 이후를 가정하고 항상 페이지의 중앙에 보이게끔 배치하였다 (Layout을 만들었다).&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://jekyllrb.com/docs/&quot;&gt;#jekyllrb&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;jekyll-설치전-ruby-업데이트-방법&quot;&gt;jekyll 설치전 ruby 업데이트 방법&lt;/h3&gt;
+&lt;p&gt;` sudo gem install rubygems-update `
+  ` sudo update_rubygems ` 
+  ` sudo gem update –system `&lt;/p&gt;
+
+&lt;h3 id=&quot;ruby-재설치&quot;&gt;ruby 재설치&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;img src=&quot;https://stackoverflow.com/questions/1954206/cant-update-rubygems&quot; alt=&quot;ruby&quot; /&gt;
+    &lt;div class=&quot;language-bash highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;If you&lt;span class=&quot;s1&quot;&gt;'ve already tried to update, uninstall the latest rubygems-update first: sudo gem uninstall rubygems-update -v 1.3.5
+Update to 1.3.0: sudo gem install rubygems-update -v 1.3.0
+sudo update_rubygems
+Then update to latest: sudo gem update --system
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;    &lt;/div&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;jekyll-hydejack-구조-설명&quot;&gt;jekyll Hydejack 구조 설명&lt;/h2&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;_config.yml
+환경설정 정보를 담고 있다. head에 넣는 메타 정보3와 비슷한 정보를 담기도 하고 baseurl, url 등도 설정할 수 있다.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;_drafts
+아직 게시하지 않은, 날짜 정보가 없는 Post를 보관할 수 있는 디렉터리이다.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;_includes
+재사용할 수 있는 부분적으로 만들어진 html 파일을 보관할 수 있는 폴더이다. 예를 들면 header나 footer는 모든 곳에서 반복적으로 사용하기 때문에 include 폴더에 만들어놓고 가져다 쓰면 편하다. liquid 태그로 _include 안에 html을 소환할 수 있다.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;_layouts
+default.html 은 최상위 Jekyll Blog 구성을 담고 있는 파일이라고 볼 수 있다. _include 폴더 안에 부분적인 html 들이 소환되어 있다. post.html 은 Post의 형태를 정의해놓은 html 파일이다.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;_posts
+날짜별로 정렬되는 형태의 아이템이 모여있는 폴더이다. 파일명은 반드시 2018-01-28-title.md 형태를 띠어야 한다.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;_data
+블로그에 사용할 수 있는 데이터를 모아놓을 수 있는 폴더이다. 확장자가 .yml, .yaml, .json, .csv 일 경우 자동으로 읽어 들여서 site.data 변수를 써서 불러올 수 있다.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;_site
+Jekyll이 다른 디렉터리에 있는 모든 파일을 활용해서 Site로 자동 변환 작업을 마치면 그 파일들이 저장되는 폴더이다. _site 폴더 내 파일은 건드리면 안 된다.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;index.html
+블로그에 접속했을 때 제일 먼저 자동으로 보여주는 파일이다.&lt;/p&gt;
+&lt;/blockquote&gt;</content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+
+      
+        <category term="blog" />
+      
+
+      
+        <summary type="html">GitHub Blog 서비스인 github.io 블로그 시작</summary>
+      
+
+      
+      
+    </entry>
+  
+</feed>

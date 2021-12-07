@@ -20,7 +20,7 @@ owner:
   tumblr:
   # google plus id, include the '+', eg +mmistakes
   google_plus:
-    
+
 highlighter: rouge
 # text highlighter로 rouge이용
 # 2016.02월 이후로 syntax highlighter는 rouge만 지원.
@@ -34,7 +34,7 @@ paginate: 20
 language: 'en-uk'
 # 언어 설정
 
-url: https://ghostsdev.github.io
+url: https://ghostsdev.github.io/
 # Google Search Console에서 사용하는 sitemap.xml 생성시
 # 이 url key값이 존재하지 않으면 sitemap.xml이
 # 정상적으로 생성되지 않는다.
@@ -42,7 +42,7 @@ url: https://ghostsdev.github.io
 # 자신의 github page url을 입력
 # ( https://your_github_id.github.io 형식 )
 
-baseurl: 
+baseurl: /
 
 # Website info
 title: Technical Ghosts
@@ -60,7 +60,7 @@ logo_dark:
 favicon: assets/built/images/favicon.jpg
 # favicon으로 사용할 image
 
-production_url: https://ghostsdev.github.io
+production_url: https://ghostsdev.github.io/
 # 최종적으로 blog가 운영될 url
 
 source_url: https://github.com/GhostsDev/GhostsDev.github.io
@@ -83,7 +83,7 @@ facebook:
 
 # Disqus
 disqus: True
-disqus_shortname: ghostsdev.github.io
+disqus_shortname: https://ghostsdev.github.io/
 # disqus는 온라인 댓글 시스템. 댓글 기능을 사용하기 위해
 # disqus를 이용할 것인지 여부와 만약 사용하면
 # disqus shortname을 입력 ( disqus username이 아님 )
@@ -121,8 +121,7 @@ branch: master
 
 relative_source: 
 
-destination: ../[GitHubPage]/
-# destination: ./output/
+destination: ./output/
 # compile된 결과가 생성되는 폴더
 # 이 폴더안의 내용이 우리가 운영하는 블로그 내용이 컴파일되서 들어간다.
 # 이 폴더안의 내용을 github repository(https://username.github.io)에 push
