@@ -51,7 +51,7 @@ title: Technical Ghosts
 description: creative special person
 # blog home에 표시될 blog에 대한 전반적인 설명.
 
-cover: assets/built/images/daniel-lincoln-cVLiE_7AcHE-unsplash.jpg
+cover: /assets/built/images/daniel-lincoln-cVLiE_7AcHE-unsplash.jpg
 # blog home에 표시될 blog cover image.
 
 logo:

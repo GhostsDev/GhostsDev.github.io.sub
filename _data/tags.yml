@@ -21,7 +21,7 @@ project :
 react :
   name: react
   description: False
-  cover: assets/built/images/logo-og.png
+  cover: /assets/built/images/logo-og.png
 coding :
   name: coding
   description: False

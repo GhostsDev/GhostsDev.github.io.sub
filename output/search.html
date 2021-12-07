@@ -41,8 +41,8 @@
     
     <!-- This tag outputs SEO meta+structured data and other important settings -->
     <meta name="description" content="creative special person" />
-    <link rel="shortcut icon" href="http://localhost:4000/assets/built/images/favicon.jpg" type="image/png" />
-    <link rel="canonical" href="http://localhost:4000/search" />
+    <link rel="shortcut icon" href="http://localhost:4000assets/built/images/favicon.jpg" type="image/png" />
+    <link rel="canonical" href="http://localhost:4000search" />
     <meta name="referrer" content="no-referrer-when-downgrade" />
     <meta name="google-site-verification" content="qp83Mjcn4numLSwkr_4Lur9oTMRgd9ZOZ3fGuO9F0Z8" />
      <!--title below is coming from _includes/dynamic_title-->
@@ -50,13 +50,13 @@
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Search Result" />
     <meta property="og:description" content="creative special person" />
-    <meta property="og:url" content="http://localhost:4000/search" />
+    <meta property="og:url" content="http://localhost:4000search" />
     <meta property="og:image" content="http://localhost:4000/assets/built/images/daniel-lincoln-cVLiE_7AcHE-unsplash.jpg" />
     <meta property="article:publisher" content="https://www.facebook.com/" />
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:title" content="Search Result" />
     <meta name="twitter:description" content="creative special person" />
-    <meta name="twitter:url" content="http://localhost:4000/" />
+    <meta name="twitter:url" content="http://localhost:4000" />
     <meta name="twitter:image" content="http://localhost:4000/assets/built/images/daniel-lincoln-cVLiE_7AcHE-unsplash.jpg" />
     <meta name="twitter:label1" content="Written by" />
     <meta name="twitter:data1" content="Technical Ghosts" />
@@ -72,9 +72,9 @@
     "publisher": {
         "@type": "Organization",
         "name": "Technical Ghosts",
-        "logo": "http://localhost:4000/"
+        "logo": "http://localhost:4000"
     },
-    "url": "http://localhost:4000/search",
+    "url": "http://localhost:4000search",
     "image": {
         "@type": "ImageObject",
         "url": "http://localhost:4000/assets/built/images/daniel-lincoln-cVLiE_7AcHE-unsplash.jpg",
@@ -83,7 +83,7 @@
     },
     "mainEntityOfPage": {
         "@type": "WebPage",
-        "@id": "http://localhost:4000/search"
+        "@id": "http://localhost:4000search"
     },
     "description": "creative special person"
 }
@@ -98,7 +98,7 @@
     </script> -->
 
     <meta name="generator" content="Jekyll 3.6.2" />
-    <link rel="alternate" type="application/rss+xml" title="Search Result" href="/feed.xml" />
+    <link rel="alternate" type="application/rss+xml" title="Search Result" href="feed.xml" />
 
 
 </head>
@@ -117,17 +117,17 @@ into the {body} of the default.hbs template -->
     <div class="site-nav-left">
         
             
-                <a class="site-nav-logo" href="http://localhost:4000/">Technical Ghosts</a>
+                <a class="site-nav-logo" href="http://localhost:4000">Technical Ghosts</a>
             
         
         
             <ul class="nav" role="menu">
-    <li class="nav-home" role="menuitem"><a href="/">Home</a></li>
-    <li class="nav-about" role="menuitem"><a href="/about/">About</a></li>
-    <li class="nav-blog" role="menuitem"><a href="/tag/blog/">blog</a></li>
-    <li class="nav-project" role="menuitem"><a href="/tag/project/">project</a></li>
-    <li class="nav-react" role="menuitem"><a href="/tag/react/">react</a></li>
-    <li class="nav-coding" role="menuitem"><a href="/tag/coding/">coding</a></li>
+    <li class="nav-home" role="menuitem"><a href="">Home</a></li>
+    <li class="nav-about" role="menuitem"><a href="about/">About</a></li>
+    <li class="nav-blog" role="menuitem"><a href="tag/blog/">blog</a></li>
+    <li class="nav-project" role="menuitem"><a href="tag/project/">project</a></li>
+    <li class="nav-react" role="menuitem"><a href="tag/react/">react</a></li>
+    <li class="nav-coding" role="menuitem"><a href="tag/coding/">coding</a></li>
     <li class="nav-archive" role="menuitem">
         <a href="/archive.html">All Posts</a>
     </li>
@@ -207,7 +207,7 @@ into the {body} of the default.hbs template -->
         "title": "React Beginning Chep1",
             "author": "memories109",
             "category": "",
-            "content": "React 구조   ✨  기본적인 React 구조를 확인 할 수 있다.&lt;noscript&gt;&lt;pre&gt;/* App.js */import import logo from &amp;#39;./logo.svg&amp;#39;;import &amp;#39;./App.css&amp;#39;;function App() {  return (    &amp;lt;div className=&amp;quot;App&amp;quot;&amp;gt;      &amp;lt;header className=&amp;quot;App-header&amp;quot;&amp;gt;        &amp;lt;img src={logo} className=&amp;quot;App-logo&amp;quot; alt=&amp;quot;logo&amp;quot; /&amp;gt;        &amp;lt;p&amp;gt;          Edit &amp;lt;code&amp;gt;src/App.js&amp;lt;/code&amp;gt; and save to reload.        &amp;lt;/p&amp;gt;        &amp;lt;a          className=&amp;quot;App-link&amp;quot;          href=&amp;quot;https://reactjs.org&amp;quot;          target=&amp;quot;_blank&amp;quot;          rel=&amp;quot;noopener noreferrer&amp;quot;        &amp;gt;          Learn React        &amp;lt;/a&amp;gt;      &amp;lt;/header&amp;gt;    &amp;lt;/div&amp;gt;  );}export default App;&lt;/pre&gt;&lt;/noscript&gt;&lt;script src=\"https://gist.github.com/memories109/e5e92c97fbbe2d45a405c1cd6d42b453.js\"&gt; &lt;/script&gt;  App.js 기본 메인페이지 들어갈 HTML 코딩을 짜는곳/* index.js */import React from 'react';import ReactDOM from 'react-dom';import './index.css';import App from './App';import reportWebVitals from './reportWebVitals';ReactDOM.render(  &lt;React.StrictMode&gt;    &lt;App /&gt;  &lt;/React.StrictMode&gt;,  document.getElementById('root'));reportWebVitals();ReactDOM이란  React는 모듈화 ReactDOM이 실행이 되면 App에 담겨져 있는 내용을 public/index.html 경로에 있는 id=’root’에 렌더링 하도록 되어있는 구조이다./* public/index.html line 27~31 */    &lt;title&gt;React App&lt;/title&gt;  &lt;/head&gt;  &lt;body&gt;    &lt;noscript&gt;You need to enable JavaScript to run this app.&lt;/noscript&gt;    &lt;div id=\"root\"&gt;&lt;/div&gt;  실제 메인페이지를 렌더링 해서 보여주도록 한다.  document.getElementById(‘root’)  App.js -&gt; index.html  node_modules  수많은 라이브러리 저장된 폴더  public : public 웹사이트 static 파일들 보관함  src : 소스 코드 보관함  package.json : 설치한 라이브러리 목록  ",
+            "content": "React 구조   ✨  기본적인 React 구조를 확인 할 수 있다.&lt;noscript&gt;&lt;pre&gt;/* App.js */import import logo from &amp;#39;./logo.svg&amp;#39;;import &amp;#39;./App.css&amp;#39;;function App() {  return (    &amp;lt;div className=&amp;quot;App&amp;quot;&amp;gt;      &amp;lt;header className=&amp;quot;App-header&amp;quot;&amp;gt;        &amp;lt;img src={logo} className=&amp;quot;App-logo&amp;quot; alt=&amp;quot;logo&amp;quot; /&amp;gt;        &amp;lt;p&amp;gt;          Edit &amp;lt;code&amp;gt;src/App.js&amp;lt;/code&amp;gt; and save to reload.        &amp;lt;/p&amp;gt;        &amp;lt;a          className=&amp;quot;App-link&amp;quot;          href=&amp;quot;https://reactjs.org&amp;quot;          target=&amp;quot;_blank&amp;quot;          rel=&amp;quot;noopener noreferrer&amp;quot;        &amp;gt;          Learn React        &amp;lt;/a&amp;gt;      &amp;lt;/header&amp;gt;    &amp;lt;/div&amp;gt;  );}export default App;&lt;/pre&gt;&lt;/noscript&gt;&lt;script src=\"https://gist.github.com/memories109/e5e92c97fbbe2d45a405c1cd6d42b453.js\"&gt; &lt;/script&gt;  App.js 기본 메인페이지 들어갈 HTML 코딩을 짜는곳&lt;noscript&gt;&lt;pre&gt;/* index.js */import React from &amp;#39;react&amp;#39;;import ReactDOM from &amp;#39;react-dom&amp;#39;;import &amp;#39;./index.css&amp;#39;;import App from &amp;#39;./App&amp;#39;;import reportWebVitals from &amp;#39;./reportWebVitals&amp;#39;;ReactDOM.render(  &amp;lt;React.StrictMode&amp;gt;    &amp;lt;App /&amp;gt;  &amp;lt;/React.StrictMode&amp;gt;,  document.getElementById(&amp;#39;root&amp;#39;));reportWebVitals();&lt;/pre&gt;&lt;/noscript&gt;&lt;script src=\"https://gist.github.com/memories109/5f43a8ed76c0f376705c941cb188a855.js\"&gt; &lt;/script&gt;ReactDOM이란  React는 모듈화 ReactDOM이 실행이 되면 App에 담겨져 있는 내용을 public/index.html 경로에 있는 id=’root’에 렌더링 하도록 되어있는 구조이다./* public/index.html line 27~31 */    &lt;title&gt;React App&lt;/title&gt;  &lt;/head&gt;  &lt;body&gt;    &lt;noscript&gt;You need to enable JavaScript to run this app.&lt;/noscript&gt;    &lt;div id=\"root\"&gt;&lt;/div&gt;  실제 메인페이지를 렌더링 해서 보여주도록 한다.  document.getElementById(‘root’)  App.js -&gt; index.html  node_modules  수많은 라이브러리 저장된 폴더  public : public 웹사이트 static 파일들 보관함  src : 소스 코드 보관함  package.json : 설치한 라이브러리 목록  ",
         "url": "/tag/react_app"
     }
     ,
@@ -412,7 +412,7 @@ $(function() {
         integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4="
         crossorigin="anonymous">
     </script>
-    <script type="text/javascript" src="assets/js/jquery.fitvids.js"></script>
+    <script type="text/javascript" src="/assets/js/jquery.fitvids.js"></script>
    <!-- <script type="text/javascript" src="https://demo.ghost.io/assets/js/jquery.fitvids.js?v=724281a32e"></script> -->
 
 
