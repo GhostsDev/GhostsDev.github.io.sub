@@ -2,10 +2,10 @@
 
 <feed xmlns="http://www.w3.org/2005/Atom" >
   <generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator>
-  <link href="https://ghostsdev.github.io//tag/about/feed.xml" rel="self" type="application/atom+xml" />
-  <link href="https://ghostsdev.github.io//" rel="alternate" type="text/html" />
-  <updated>2021-12-06T22:05:56+09:00</updated>
-  <id>https://ghostsdev.github.io//tag/about/feed.xml</id>
+  <link href="http://localhost:4000/tag/about/feed.xml" rel="self" type="application/atom+xml" />
+  <link href="http://localhost:4000/" rel="alternate" type="text/html" />
+  <updated>2021-12-07T10:29:16+09:00</updated>
+  <id>http://localhost:4000/tag/about/feed.xml</id>
 
   
   
@@ -33,11 +33,11 @@
   
     <entry>
       <title type="html">Who are you</title>
-      <link href="https://ghostsdev.github.io//tag/about-me" rel="alternate" type="text/html" title="Who are you" />
+      <link href="http://localhost:4000/tag/about-me" rel="alternate" type="text/html" title="Who are you" />
       <published>2021-11-28T01:40:00+09:00</published>
       <updated>2021-11-28T01:40:00+09:00</updated>
-      <id>https://ghostsdev.github.io//tag/about-me</id>
-      <content type="html" xml:base="https://ghostsdev.github.io//tag/about-me">&lt;p&gt;&lt;a href=&quot;https://travis-ci.org/joemccann/dillinger&quot;&gt;&lt;img src=&quot;https://travis-ci.org/joemccann/dillinger.svg?branch=master&quot; alt=&quot;Build Status&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+      <id>http://localhost:4000/tag/about-me</id>
+      <content type="html" xml:base="http://localhost:4000/tag/about-me">&lt;p&gt;&lt;a href=&quot;https://travis-ci.org/joemccann/dillinger&quot;&gt;&lt;img src=&quot;https://travis-ci.org/joemccann/dillinger.svg?branch=master&quot; alt=&quot;Build Status&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;h1 id=&quot;-introduction&quot;&gt;🤔 &lt;em&gt;Introduction&lt;/em&gt;&lt;/h1&gt;
 &lt;ul&gt;
   &lt;li&gt;안녕하세요 !! 프론트 엔드 개발자 Ghosts 입니다.&lt;/li&gt;
