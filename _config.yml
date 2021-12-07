@@ -20,7 +20,7 @@ owner:
   tumblr:
   # google plus id, include the '+', eg +mmistakes
   google_plus:
-   
+    
 highlighter: rouge
 # text highlighter로 rouge이용
 # 2016.02월 이후로 syntax highlighter는 rouge만 지원.
