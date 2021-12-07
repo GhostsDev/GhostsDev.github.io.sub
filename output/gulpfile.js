@@ -30,7 +30,7 @@ gulp.task('css', function () {
 
     return gulp.src('assets/css/*.css')
         .pipe(sourcemaps.init())
-        // .pipe(postcss(processors))
+        .pipe(postcss(processors))
         .pipe(sourcemaps.write('.'))
         .pipe(gulp.dest('assets/built/'))
 });
