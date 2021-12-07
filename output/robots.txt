@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://ghostsdev.github.io/sitemap.xml
