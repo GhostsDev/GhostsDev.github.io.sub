@@ -8,10 +8,10 @@
     "license": "MIT",
     "devDependencies": {
         "autoprefixer": "^10.4.0",
-        "cssnano": "^5.0.11",
+        "cssnano": "^5.0.12",
         "graceful-fs": "^4.2.8",
         "gulp": "^4.0.2",
-        "gulp-imagemin": "^7.1.0",
+        "gulp-imagemin": "^7.0.0",
         "gulp-postcss": "^9.0.1",
         "gulp-sourcemaps": "^3.0.0",
         "gulp-util": "^3.0.8",
